@@ -1,0 +1,742 @@
+"ribbonId","awardCode","awardCount","special","game","image","ribbonName"
+298,tf_projectile_rocket,1,0,tf,"1_tf_projectile_rocket.png",Bronze Rocket Launcher
+299,tf_projectile_rocket,5,0,tf,"2_tf_projectile_rocket.png",Silver Rocket Launcher
+300,tf_projectile_rocket,10,0,tf,"3_tf_projectile_rocket.png",Gold Rocket Launcher
+301,sniperrifle,1,0,tf,"1_sniperrifle.png",Bronze Sniper Rifle
+302,sniperrifle,5,0,tf,"2_sniperrifle.png",Silver Sniper Rifle
+303,sniperrifle,10,0,tf,"3_sniperrifle.png",Gold Sniper Rifle
+304,minigun,1,0,tf,"1_minigun.png",Bronze Minigun
+305,minigun,5,0,tf,"2_minigun.png",Silver Minigun
+306,minigun,10,0,tf,"3_minigun.png",Gold Minigun
+307,obj_sentrygun,1,0,tf,"1_obj_sentrygun.png",Bronze Sentry Gun
+308,obj_sentrygun,5,0,tf,"2_obj_sentrygun.png",Silver Sentry Gun
+309,obj_sentrygun,10,0,tf,"3_obj_sentrygun.png",Gold Sentry Gun
+310,knife,1,0,tf,"1_knife.png",Bronze Knife
+311,knife,5,0,tf,"2_knife.png",Silver Knife
+312,knife,10,0,tf,"3_knife.png",Gold Knife
+313,scattergun,1,0,tf,"1_scattergun.png",Bronze Scatter Gun
+314,scattergun,5,0,tf,"2_scattergun.png",Silver Scatter Gun
+315,scattergun,10,0,tf,"3_scattergun.png",Gold Scatter Gun
+316,tf_projectile_pipe,1,0,tf,"1_tf_projectile_pipe.png",Bronze Grenade Launcher
+317,tf_projectile_pipe,5,0,tf,"2_tf_projectile_pipe.png",Silver Grenade Launcher
+318,tf_projectile_pipe,10,0,tf,"3_tf_projectile_pipe.png",Gold Grenade Launcher
+319,flamethrower,1,0,tf,"1_flamethrower.png",Bronze Flamethrower
+320,flamethrower,5,0,tf,"2_flamethrower.png",Silver Flamethrower
+321,flamethrower,10,0,tf,"3_flamethrower.png",Gold Flamethrower
+322,backburner,1,0,tf,"1_backburner.png",Bronze Backburner
+323,backburner,5,0,tf,"2_backburner.png",Silver Backburner
+324,backburner,10,0,tf,"3_backburner.png",Gold Backburner
+325,tf_projectile_pipe_remote,1,0,tf,"1_tf_projectile_pipe_remote.png",Bronze Sticky Launcher
+326,tf_projectile_pipe_remote,5,0,tf,"2_tf_projectile_pipe_remote.png",Silver Sticky Launcher
+327,tf_projectile_pipe_remote,10,0,tf,"3_tf_projectile_pipe_remote.png",Gold Sticky Launcher
+328,shotgun_primary,1,0,tf,"1_shotgun_primary.png",Bronze Engy Shotgun
+329,shotgun_primary,5,0,tf,"2_shotgun_primary.png",Silver Engy Shotgun
+330,shotgun_primary,10,0,tf,"3_shotgun_primary.png",Gold Engy Shotgun
+331,smg,1,0,tf,"1_smg.png",Bronze Submachine Gun
+332,smg,5,0,tf,"2_smg.png",Silver Submachine Gun
+333,smg,10,0,tf,"3_smg.png",Gold Submachine Gun
+334,shotgun_soldier,1,0,tf,"1_shotgun_soldier.png",Bronze Soldier Shotgun
+335,shotgun_soldier,5,0,tf,"2_shotgun_soldier.png",Silver Soldier Shotgun
+336,shotgun_soldier,10,0,tf,"3_shotgun_soldier.png",Gold Soldier Shotgun
+337,revolver,1,0,tf,"1_revolver.png",Bronze Revolver
+338,revolver,5,0,tf,"2_revolver.png",Silver Revolver
+339,revolver,10,0,tf,"3_revolver.png",Gold Revolver
+340,shotgun_pyro,1,0,tf,"1_shotgun_pyro.png",Bronze Pyro Shotgun
+341,shotgun_pyro,5,0,tf,"2_shotgun_pyro.png",Silver Pyro Shotgun
+342,shotgun_pyro,10,0,tf,"3_shotgun_pyro.png",Gold Pyro Shotgun
+343,bat,1,0,tf,"1_bat.png",Bronze Bat
+344,bat,5,0,tf,"2_bat.png",Silver Bat
+345,bat,10,0,tf,"3_bat.png",Gold Bat
+346,wrench,1,0,tf,"1_wrench.png",Bronze Wrench
+347,wrench,5,0,tf,"2_wrench.png",Silver Wrench
+348,wrench,10,0,tf,"3_wrench.png",Gold Wrench
+349,shotgun_hwg,1,0,tf,"1_shotgun_hwg.png",Bronze Heavy Shotgun
+350,shotgun_hwg,5,0,tf,"2_shotgun_hwg.png",Silver Heavy Shotgun
+351,shotgun_hwg,10,0,tf,"3_shotgun_hwg.png",Gold Heavy Shotgun
+352,club,1,0,tf,"1_club.png",Bronze Machete
+353,club,5,0,tf,"2_club.png",Silver Machete
+354,club,10,0,tf,"3_club.png",Gold Machete
+355,pistol_scout,1,0,tf,"1_pistol_scout.png",Bronze Scout Pistol
+356,pistol_scout,5,0,tf,"2_pistol_scout.png",Silver Scout Pistol
+357,pistol_scout,10,0,tf,"3_pistol_scout.png",Gold Scout Pistol
+358,pistol,1,0,tf,"1_pistol.png",Bronze Engy Pistol
+359,pistol,5,0,tf,"2_pistol.png",Silver Engy Pistol
+360,pistol,10,0,tf,"3_pistol.png",Gold Engy Pistol
+361,bottle,1,0,tf,"1_bottle.png",Bronze Bottle
+362,bottle,5,0,tf,"2_bottle.png",Silver Bottle
+363,bottle,10,0,tf,"3_bottle.png",Gold Bottle
+364,shovel,1,0,tf,"1_shovel.png",Bronze Shovel
+365,shovel,5,0,tf,"2_shovel.png",Silver Shovel
+366,shovel,10,0,tf,"3_shovel.png",Gold Shovel
+367,fireaxe,1,0,tf,"1_fireaxe.png",Bronze Fire Axe
+368,fireaxe,5,0,tf,"2_fireaxe.png",Silver Fire Axe
+369,fireaxe,10,0,tf,"3_fireaxe.png",Gold Fire Axe
+370,fists,1,0,tf,"1_fists.png",Bronze Fists
+371,fists,5,0,tf,"2_fists.png",Silver Fists
+372,fists,10,0,tf,"3_fists.png",Gold Fists
+373,ubersaw,1,0,tf,"1_ubersaw.png",Bronze Ubersaw
+374,ubersaw,5,0,tf,"2_ubersaw.png",Silver Ubersaw
+375,ubersaw,10,0,tf,"3_ubersaw.png",Gold Ubersaw
+376,blutsauger,1,0,tf,"1_blutsauger.png",Bronze Blutsauger
+377,blutsauger,5,0,tf,"2_blutsauger.png",Silver Blutsauger
+378,blutsauger,10,0,tf,"3_blutsauger.png",Gold Blutsauger
+379,axtinguisher,1,0,tf,"1_axtinguisher.png",Bronze Axtinguisher
+380,axtinguisher,5,0,tf,"2_axtinguisher.png",Silver Axtinguisher
+381,axtinguisher,10,0,tf,"3_axtinguisher.png",Gold Axtinguisher
+382,deflect_flare,1,0,tf,"1_deflect_flare.png",Bronze Deflected Flare
+383,deflect_flare,5,0,tf,"2_deflect_flare.png",Silver Deflected Flare
+384,deflect_flare,10,0,tf,"3_deflect_flare.png",Gold Deflected Flare
+385,syringegun_medic,1,0,tf,"1_syringegun_medic.png",Bronze Syringe Gun
+386,syringegun_medic,5,0,tf,"2_syringegun_medic.png",Silver Syringe Gun
+387,syringegun_medic,10,0,tf,"3_syringegun_medic.png",Gold Syringe Gun
+388,bonesaw,1,0,tf,"1_bonesaw.png",Bronze Bonesaw
+389,bonesaw,5,0,tf,"2_bonesaw.png",Silver Bonesaw
+390,bonesaw,10,0,tf,"3_bonesaw.png",Gold Bonesaw
+391,deflect_promode,1,0,tf,"1_deflect_promode.png",Bronze Deflected Grenade
+392,deflect_promode,5,0,tf,"2_deflect_promode.png",Silver Deflected Grenade
+393,deflect_promode,10,0,tf,"3_deflect_promode.png",Gold Deflected Grenade
+394,deflect_rocket,1,0,tf,"1_deflect_rocket.png",Bronze Deflected Rocket
+395,deflect_rocket,5,0,tf,"2_deflect_rocket.png",Silver Deflected Rocket
+396,deflect_rocket,10,0,tf,"3_deflect_rocket.png",Gold Deflected Rocket
+397,deflect_sticky,1,0,tf,"1_deflect_sticky.png",Bronze Deflected Sticky
+398,deflect_sticky,5,0,tf,"2_deflect_sticky.png",Silver Deflected Sticky
+399,deflect_sticky,10,0,tf,"3_deflect_sticky.png",Gold Deflected Sticky
+400,flaregun,1,0,tf,"1_flaregun.png",Bronze Flare Gun
+401,flaregun,5,0,tf,"2_flaregun.png",Silver Flare Gun
+402,flaregun,10,0,tf,"3_flaregun.png",Gold Flare Gun
+403,natascha,1,0,tf,"1_natascha.png",Bronze Natascha
+404,natascha,5,0,tf,"2_natascha.png",Silver Natascha
+405,natascha,10,0,tf,"3_natascha.png",Gold Natascha
+406,gloves,1,0,tf,"1_gloves.png",Bronze K.G.B.
+407,gloves,5,0,tf,"2_gloves.png",Silver K.G.B.
+408,gloves,10,0,tf,"3_gloves.png",Gold K.G.B.
+409,taunt_heavy,1,0,tf,"1_taunt_heavy.png",Bronze Heavy Taunt
+410,taunt_heavy,5,0,tf,"2_taunt_heavy.png",Silver Heavy Taunt
+411,taunt_heavy,10,0,tf,"3_taunt_heavy.png",Gold Heavy Taunt
+412,taunt_pyro,1,0,tf,"1_taunt_pyro.png",Bronze Hadouken
+413,taunt_pyro,5,0,tf,"2_taunt_pyro.png",Silver Hadouken
+414,taunt_pyro,10,0,tf,"3_taunt_pyro.png",Gold Hadouken
+415,chargedeployed,1,0,tf,"1_chargedeployed.png",Bronze Uber
+416,chargedeployed,5,0,tf,"2_chargedeployed.png",Silver Uber
+417,chargedeployed,10,0,tf,"3_chargedeployed.png",Gold Uber
+418,sandvich,1,0,tf,"1_sandvich.png",Bronze Sandvich
+419,sandvich,5,0,tf,"2_sandvich.png",Silver Sandvich
+420,sandvich,10,0,tf,"3_sandvich.png",Gold Sandvich
+421,domination,1,0,tf,"1_domination.png",Bronze Dominator
+422,domination,5,0,tf,"2_domination.png",Silver Dominator
+423,domination,10,0,tf,"3_domination.png",Gold Dominator
+424,revenge,1,0,tf,"1_revenge.png",Bronze Revenger
+425,revenge,5,0,tf,"2_revenge.png",Silver Revenger
+426,revenge,10,0,tf,"3_revenge.png",Gold Revenger
+427,mostkills,1,0,tf,"1_mostkills.png",Bronze Kill Award
+428,mostkills,5,0,tf,"2_mostkills.png",Silver Kill Award
+429,mostkills,10,0,tf,"3_mostkills.png",Gold Kill Award
+430,backstab,1,0,tf,"1_backstab.png",Bronze Backstabber
+431,backstab,5,0,tf,"2_backstab.png",Silver Backstabber
+432,backstab,10,0,tf,"3_backstab.png",Gold Backstabber
+433,pointcaptured,1,0,tf,"1_pointcaptured.png",Bronze Capture Point
+434,pointcaptured,5,0,tf,"2_pointcaptured.png",Silver Capture Point
+435,pointcaptured,10,0,tf,"3_pointcaptured.png",Gold Capture Point
+436,captureblocked,1,0,tf,"1_captureblocked.png",Bronze Blocker
+437,captureblocked,5,0,tf,"2_captureblocked.png",Silver Blocker
+438,captureblocked,10,0,tf,"3_captureblocked.png",Gold Blocker
+439,flagevent_defended,1,0,tf,"1_flagevent_defended.png",Bronze Defender
+440,flagevent_defended,5,0,tf,"2_flagevent_defended.png",Silver Defender
+441,flagevent_defended,10,0,tf,"3_flagevent_defended.png",Gold Defender
+442,flagevent_captured,1,0,tf,"1_flagevent_captured.png",Bronze Intelligence
+443,flagevent_captured,5,0,tf,"2_flagevent_captured.png",Silver Intelligence
+444,flagevent_captured,10,0,tf,"3_flagevent_captured.png",Gold Intelligence
+445,kill assist,1,0,tf,"1_kill assist.png",Bronze Assister
+446,kill assist,5,0,tf,"2_kill assist.png",Silver Assister
+447,kill assist,10,0,tf,"3_kill assist.png",Gold Assister
+448,bonuspoints,1,0,tf,"1_bonuspoints.png",Bronze Healer
+449,bonuspoints,5,0,tf,"2_bonuspoints.png",Silver Healer
+450,bonuspoints,10,0,tf,"3_bonuspoints.png",Gold Healer
+451,kill_assist_medic,1,0,tf,"1_kill_assist_medic.png",Bronze Healer
+452,kill_assist_medic,5,0,tf,"2_kill_assist_medic.png",Silver Healer
+453,kill_assist_medic,10,0,tf,"3_kill_assist_medic.png",Gold Healer
+454,builtobject_obj_attachment_sapper,1,0,tf,"1_builtobject_obj_attachment_sapper.png",Bronze Sapper
+455,builtobject_obj_attachment_sapper,5,0,tf,"2_builtobject_obj_attachment_sapper.png",Silver Sapper
+456,builtobject_obj_attachment_sapper,10,0,tf,"3_builtobject_obj_attachment_sapper.png",Gold Sapper
+457,deflect_arrow,1,0,tf,"1_deflect_arrow.png",Bronze Deflected Arrow
+458,deflect_arrow,5,0,tf,"2_deflect_arrow.png",Silver Deflected Arrow
+459,deflect_arrow,10,0,tf,"3_deflect_arrow.png",Gold Deflected Arrow
+460,ambassador,1,0,tf,"1_ambassador.png",Bronze Ambassador
+461,ambassador,5,0,tf,"2_ambassador.png",Silver Ambassador
+462,ambassador,10,0,tf,"3_ambassador.png",Gold Ambassador
+463,buff_deployed,1,0,tf,"1_buff_deployed.png",Bronze Buff Deploy
+464,buff_deployed,5,0,tf,"2_buff_deployed.png",Silver Buff Deploy
+465,buff_deployed,10,0,tf,"3_buff_deployed.png",Gold Buff Deploy
+466,builtobject_obj_dispenser,1,0,tf,"1_builtobject_obj_dispenser.png",Bronze Built Dispenser
+467,builtobject_obj_dispenser,5,0,tf,"2_builtobject_obj_dispenser.png",Silver Built Dispenser
+468,builtobject_obj_dispenser,10,0,tf,"3_builtobject_obj_dispenser.png",Gold Built Dispenser
+469,builtobject_obj_sentrygun,1,0,tf,"1_builtobject_obj_sentrygun.png",Bronze Built Sentry Gun
+470,builtobject_obj_sentrygun,5,0,tf,"2_builtobject_obj_sentrygun.png",Silver Built Sentry Gun
+471,builtobject_obj_sentrygun,10,0,tf,"3_builtobject_obj_sentrygun.png",Gold Built Sentry Gun
+472,builtobject_obj_sentrygun_mini,1,0,tf,"1_builtobject_obj_sentrygun_mini.png",Bronze Built Mini Sentry Gun
+473,builtobject_obj_sentrygun_mini,5,0,tf,"2_builtobject_obj_sentrygun_mini.png",Silver Built Mini Sentry Gun
+474,builtobject_obj_sentrygun_mini,10,0,tf,"3_builtobject_obj_sentrygun_mini.png",Gold Built Mini Sentry Gun
+475,defended_medic,5,0,tf,"2_defended_medic.png",Silver Defended Medic
+476,defended_medic,1,0,tf,"1_defended_medic.png",Bronze Defended Medic
+477,defended_medic,10,0,tf,"3_defended_medic.png",Gold Defended Medic
+478,demoshield,5,0,tf,"2_demoshield.png",Silver Chargin' Targe
+479,demoshield,10,0,tf,"3_demoshield.png",Gold Chargin' Targe
+480,demoshield,1,0,tf,"1_demoshield.png",Bronze Chargin' Targe
+481,jarate,10,0,tf,"3_jarate.png",Gold Jarate
+482,jarate,5,0,tf,"2_jarate.png",Silver Jarate
+483,jarate,1,0,tf,"1_jarate.png",Bronze Jarate
+484,latency,10,0,tf,"3_latency.png",Gold Latency
+485,latency,5,0,tf,"2_latency.png",Silver Latency
+486,latency,1,0,tf,"1_latency.png",Bronze Latency
+487,unique_pickaxe,5,0,tf,"2_pickaxe.png",Silver Equalizer
+488,unique_pickaxe,1,0,tf,"1_pickaxe.png",Bronze Equalizer
+489,unique_pickaxe,10,0,tf,"3_pickaxe.png",Gold Equalizer
+490,rocketlauncher_directhit,1,0,tf,"1_rocketlauncher_directhit.png",Bronze Direct Hit
+491,rocketlauncher_directhit,10,0,tf,"3_rocketlauncher_directhit.png",Gold Direct Hit
+492,rocketlauncher_directhit,5,0,tf,"2_rocketlauncher_directhit.png",Silver Direct Hit
+493,sandman,1,0,tf,"1_sandman.png",Bronze Sandman
+494,sandman,10,0,tf,"3_sandman.png",Gold Sandman
+495,sandman,5,0,tf,"2_sandman.png",Silver Sandman
+496,steal_sandvich,10,0,tf,"3_steal_sandvich.png",Gold Steal Sandvich
+497,steal_sandvich,5,0,tf,"2_steal_sandvich.png",Silver Steal Sandvich
+498,steal_sandvich,1,0,tf,"1_steal_sandvich.png",Bronze Steal Sandvich
+499,sticky_resistance,5,0,tf,"2_sticky_resistance.png",Silver Scottish Resistance
+500,sticky_resistance,1,0,tf,"1_sticky_resistance.png",Bronze Scottish Resistance
+501,sticky_resistance,10,0,tf,"3_sticky_resistance.png",Gold Scottish Resistance
+502,stun,1,0,tf,"1_stun.png",Bronze Stun
+503,stun,10,0,tf,"3_stun.png",Gold Stun
+504,stun,5,0,tf,"2_stun.png",Silver Stun
+505,sword,10,0,tf,"3_sword.png",Gold Eyelander
+506,sword,5,0,tf,"2_sword.png",Silver Eyelander
+507,sword,1,0,tf,"1_sword.png",Bronze Eyelander
+508,taunt_demoman,10,0,tf,"3_taunt_demoman.png",Gold Demoman Taunt
+509,taunt_demoman,5,0,tf,"2_taunt_demoman.png",Silver Demoman Taunt
+510,taunt_demoman,1,0,tf,"1_taunt_demoman.png",Bronze Demoman Taunt
+511,taunt_scout,10,0,tf,"3_taunt_scout.png",Gold Scout Taunt
+512,taunt_scout,1,0,tf,"1_taunt_scout.png",Bronze Scout Taunt
+513,taunt_scout,5,0,tf,"2_taunt_scout.png",Silver Scout Taunt
+514,taunt_sniper,1,0,tf,"1_taunt_sniper.png",Bronze Sniper Taunt
+515,taunt_sniper,10,0,tf,"3_taunt_sniper.png",Gold Sniper Taunt
+516,taunt_sniper,5,0,tf,"2_taunt_sniper.png",Silver Sniper Taunt
+517,taunt_soldier,1,0,tf,"1_taunt_soldier.png",Bronze Soldier Taunt
+518,taunt_soldier,10,0,tf,"3_taunt_soldier.png",Gold Soldier Taunt
+519,taunt_soldier,5,0,tf,"2_taunt_soldier.png",Silver Soldier Taunt
+520,taunt_spy,10,0,tf,"3_taunt_spy.png",Gold Spy Taunt
+521,taunt_spy,5,0,tf,"2_taunt_spy.png",Silver Spy Taunt
+522,taunt_spy,1,0,tf,"1_taunt_spy.png",Bronze Spy Taunt
+523,teleport,5,0,tf,"2_teleport.png",Silver Teleport
+524,teleport,10,0,tf,"3_teleport.png",Gold Teleport
+525,teleport,1,0,tf,"1_teleport.png",Bronze Teleport
+526,tf_projectile_arrow,1,0,tf,"1_tf_projectile_arrow.png",Bronze Huntsman
+527,tf_projectile_arrow,5,0,tf,"2_tf_projectile_arrow.png",Silver Huntsman
+528,tf_projectile_arrow,10,0,tf,"3_tf_projectile_arrow.png",Gold Huntsman
+529,tf_projectile_arrow_fire,1,0,tf,"1_tf_projectile_arrow_fire.png",Bronze Flaming Hunstman
+530,tf_projectile_arrow_fire,5,0,tf,"2_tf_projectile_arrow_fire.png",Silver Flaming Hunstman
+531,tf_projectile_arrow_fire,10,0,tf,"3_tf_projectile_arrow_fire.png",Gold Flaming Hunstman
+532,killed_charged_medic,1,0,tf,"1_killed_charged_medic.png",Bronze Charged Medic Kills
+533,killed_charged_medic,5,0,tf,"2_killed_charged_medic.png",Silver Charged Medic Kills
+534,killed_charged_medic,10,0,tf,"3_killed_charged_medic.png",Gold Charged Medic Kills
+535,escort_score,1,0,tf,"1_escort_score.png",Bronze Cart Escort
+536,escort_score,5,0,tf,"2_escort_score.png",Silver Cart Escort
+537,escort_score,10,0,tf,"3_escort_score.png",Gold Cart Escort
+538,shield_blocked,1,0,tf,"1_shield_blocked.png",Bronze Broken Razorbacks
+539,shield_blocked,5,0,tf,"2_shield_blocked.png",Silver Broken Razorbacks
+540,shield_blocked,10,0,tf,"3_shield_blocked.png",Gold Broken Razorbacks
+541,taunt_medic,1,0,tf,"1_taunt_medic.png",Bronze Medic Taunt
+542,taunt_medic,5,0,tf,"2_taunt_medic.png",Silver Medic Taunt
+543,taunt_medic,10,0,tf,"3_taunt_medic.png",Gold Medic Taunt
+544,tribalkukri,1,0,tf,"1_tribalkukri.png",Bronze Tribalman's Shiv
+545,tribalkukri,5,0,tf,"2_tribalkukri.png",Silver Tribalman's Shiv
+546,tribalkukri,10,0,tf,"3_tribalkukri.png",Gold Tribalman's Shiv
+547,battleaxe,1,0,tf,"1_battleaxe.png",Bronze Scotsman's Skullcutter
+548,battleaxe,5,0,tf,"2_battleaxe.png",Silver Scotsman's Skullcutter
+549,battleaxe,10,0,tf,"3_battleaxe.png",Gold Scotsman's Skullcutter
+550,allsentrykills,1,0,tf,"1_allsentrykills.png",Bronze Sentry Kills
+551,allsentrykills,5,0,tf,"2_allsentrykills.png",Silver Sentry Kills
+552,allsentrykills,10,0,tf,"3_allsentrykills.png",Gold Sentry Kills
+553,ball,1,0,tf,"1_ball.png",Bronze Baseball
+554,ball,5,0,tf,"2_ball.png",Silver Baseball
+555,ball,10,0,tf,"3_ball.png",Gold Baseball
+556,engineer_extinguish,1,0,tf,"1_engineer_extinguish.png",Bronze Engineer Extinguish
+557,engineer_extinguish,5,0,tf,"2_engineer_extinguish.png",Silver Engineer Extinguish
+558,engineer_extinguish,10,0,tf,"3_engineer_extinguish.png",Gold Engineer Extinguish
+559,force_a_nature,1,0,tf,"1_force_a_nature.png",Bronze Force-A-Nature
+560,force_a_nature,5,0,tf,"2_force_a_nature.png",Silver Force-A-Nature
+561,force_a_nature,10,0,tf,"3_force_a_nature.png",Gold Force-A-Nature
+562,frontier_justice,1,0,tf,"1_frontier_justice.png",Bronze Frontier Justice
+563,frontier_justice,5,0,tf,"2_frontier_justice.png",Silver Frontier Justice
+564,frontier_justice,10,0,tf,"3_frontier_justice.png",Gold Frontier Justice
+565,killedobject_obj_dispenser,1,0,tf,"1_killedobject_obj_dispenser.png",Bronze Dispensers Destroyed
+566,killedobject_obj_dispenser,5,0,tf,"2_killedobject_obj_dispenser.png",Silver Dispensers Destroyed
+567,killedobject_obj_dispenser,10,0,tf,"3_killedobject_obj_dispenser.png",Gold Dispensers Destroyed
+568,killedobject_obj_sentrygun,1,0,tf,"1_killedobject_obj_sentrygun.png",Bronze Sentry Guns Destroyed
+569,killedobject_obj_sentrygun,5,0,tf,"2_killedobject_obj_sentrygun.png",Silver Sentry Guns Destroyed
+570,killedobject_obj_sentrygun,10,0,tf,"3_killedobject_obj_sentrygun.png",Gold Sentry Guns Destroyed
+571,killedobject_obj_sentrygun_mini,1,0,tf,"1_killedobject_obj_sentrygun_mini.png",Bronze Mini Sentry Guns Destroyed
+572,killedobject_obj_sentrygun_mini,5,0,tf,"2_killedobject_obj_sentrygun_mini.png",Silver Mini Sentry Guns Destroyed
+573,killedobject_obj_sentrygun_mini,10,0,tf,"3_killedobject_obj_sentrygun_mini.png",Gold Mini Sentry Guns Destroyed
+574,medic_extinguish,1,0,tf,"1_medic_extinguish.png",Bronze Medic Entinguish
+575,medic_extinguish,5,0,tf,"2_medic_extinguish.png",Silver Medic Entinguish
+576,medic_extinguish,10,0,tf,"3_medic_extinguish.png",Gold Medic Entinguish
+577,mvp1,1,0,tf,"1_mvp1.png",Bronze Most Valuable Player
+578,mvp1,5,0,tf,"2_mvp1.png",Silver Most Valuable Player
+579,mvp1,10,0,tf,"3_mvp1.png",Gold Most Valuable Player
+580,obj_minisentry,1,0,tf,"1_obj_sentrygun_mini.png",Bronze Mini Sentrygun
+581,obj_minisentry,5,0,tf,"2_obj_sentrygun_mini.png",Silver Mini Sentrygun
+582,obj_minisentry,10,0,tf,"3_obj_sentrygun_mini.png",Gold Mini Sentrygun
+583,paintrain,1,0,tf,"1_paintrain.png",Bronze Paintrain
+584,paintrain,5,0,tf,"2_paintrain.png",Silver Paintrain
+585,paintrain,10,0,tf,"3_paintrain.png",Gold Paintrain
+586,pyro_extinguish,1,0,tf,"1_pyro_extinguish.png",Bronze Pyro Extinguish
+587,pyro_extinguish,5,0,tf,"2_pyro_extinguish.png",Silver Pyro Extinguish
+588,pyro_extinguish,10,0,tf,"3_pyro_extinguish.png",Gold Pyro Extinguish
+589,robot_arm,1,0,tf,"1_robot_arm.png",Bronze Gunslinger
+590,robot_arm,5,0,tf,"2_robot_arm.png",Silver Gunslinger
+591,robot_arm,10,0,tf,"3_robot_arm.png",Gold Gunslinger
+592,robot_arm_blender_kill,1,0,tf,"1_robot_arm_blender_kill.png",Bronze Engineer Taunt (Gunslinger)
+593,robot_arm_blender_kill,5,0,tf,"2_robot_arm_blender_kill.png",Silver Engineer Taunt (Gunslinger)
+594,robot_arm_blender_kill,10,0,tf,"3_robot_arm_blender_kill.png",Gold Engineer Taunt (Gunslinger)
+595,robot_arm_combo_kill,1,0,tf,"1_robot_arm_combo_kill.png",Bronze Gunslinger Combo Kill
+596,robot_arm_combo_kill,5,0,tf,"2_robot_arm_combo_kill.png",Silver Gunslinger Combo Kill
+597,robot_arm_combo_kill,10,0,tf,"3_robot_arm_combo_kill.png",Gold Gunslinger Combo Kill
+598,sledgehammer,1,0,tf,"1_sledgehammer.png",Bronze Homewrecker
+599,sledgehammer,5,0,tf,"2_sledgehammer.png",Silver Homewrecker
+600,sledgehammer,10,0,tf,"3_sledgehammer.png",Gold Homewrecker
+601,sniper_extinguish,1,0,tf,"1_sniper_extinguish.png",Bronze Sniper Extinguish
+602,sniper_extinguish,5,0,tf,"2_sniper_extinguish.png",Silver Sniper Extinguish
+603,sniper_extinguish,10,0,tf,"3_sniper_extinguish.png",Gold Sniper Extinguish
+604,southern_hospitality,1,0,tf,"1_southern_hospitality.png",Bronze Southern Hospitality
+605,southern_hospitality,5,0,tf,"2_southern_hospitality.png",Silver Southern Hospitality
+606,southern_hospitality,10,0,tf,"3_southern_hospitality.png",Gold Southern Hospitality
+607,taunt_guitar_kill,1,0,tf,"1_taunt_guitar_kill.png",Bronze Engineer Taunt (Guitar)
+608,taunt_guitar_kill,5,0,tf,"2_taunt_guitar_kill.png",Silver Engineer Taunt (Guitar)
+609,taunt_guitar_kill,10,0,tf,"3_taunt_guitar_kill.png",Gold Engineer Taunt (Guitar)
+610,bleed_kill,1,0,tf,"1_bleed_kill.png",Bronze Bleed Kills
+611,bleed_kill,5,0,tf,"2_bleed_kill.png",Silver Bleed Kills
+612,bleed_kill,10,0,tf,"3_bleed_kill.png",Gold Bleed Kills
+613,telefrag,1,0,tf,"1_telefrag.png",Bronze Telefrags
+614,telefrag,5,0,tf,"2_telefrag.png",Silver Telefrags
+615,telefrag,10,0,tf,"3_telefrag.png",Gold Telefrags
+616,wrangler_kill,1,0,tf,"1_wrangler_kill.png",Bronze Wrangler
+617,wrangler_kill,5,0,tf,"2_wrangler_kill.png",Silver Wrangler
+618,wrangler_kill,10,0,tf,"3_wrangler_kill.png",Gold Wrangler
+619,battleneedle,1,0,tf,"1_battleneedle.png",Bronze Vita-Saw
+620,battleneedle,5,0,tf,"2_battleneedle.png",Silver Vita-Saw
+621,battleneedle,10,0,tf,"3_battleneedle.png",Gold Vita-Saw
+622,powerjack,1,0,tf,"1_powerjack.png",Bronze Powerjack
+623,powerjack,5,0,tf,"2_powerjack.png",Silver Powerjack
+624,powerjack,10,0,tf,"3_powerjack.png",Gold Powerjack
+625,degreaser,1,0,tf,"1_degreaser.png",Bronze Degreaser
+626,degreaser,5,0,tf,"2_degreaser.png",Silver Degreaser
+627,degreaser,10,0,tf,"3_degreaser.png",Gold Degreaser
+628,shortstop,1,0,tf,"1_shortstop.png",Bronze Short Stop
+629,shortstop,5,0,tf,"2_shortstop.png",Silver Short Stop
+630,shortstop,10,0,tf,"3_shortstop.png",Gold Short Stop
+631,holymackerel,1,0,tf,"1_holymackerel.png",Bronze Holy Mackerel
+632,holymackerel,5,0,tf,"2_holymackerel.png",Silver Holy Mackerel
+633,holymackerel,10,0,tf,"3_holymackerel.png",Gold Holy Mackerel
+634,letranger,1,0,tf,"1_letranger.png",Bronze L'Etranger
+635,letranger,5,0,tf,"2_letranger.png",Silver L'Etranger
+636,letranger,10,0,tf,"3_letranger.png",Gold L'Etranger
+637,eternal_reward,1,0,tf,"1_eternal_reward.png",Bronze Your Eternal Reward
+638,eternal_reward,5,0,tf,"2_eternal_reward.png",Silver Your Eternal Reward
+639,eternal_reward,10,0,tf,"3_eternal_reward.png",Gold Your Eternal Reward
+640,fryingpan,1,0,tf,"1_fryingpan.png",Bronze Frying Pan
+641,fryingpan,5,0,tf,"2_fryingpan.png",Silver Frying Pan
+642,fryingpan,10,0,tf,"3_fryingpan.png",Gold Frying Pan
+643,bushwacka,1,0,tf,"1_bushwacka.png",Bronze Bushwacka
+644,bushwacka,5,0,tf,"2_bushwacka.png",Silver Bushwacka
+645,bushwacka,10,0,tf,"3_bushwacka.png",Gold Bushwacka
+646,gloves_running_urgently,1,0,tf,"1_glovesurgent.png",Bronze Gloves of Running Urgently
+647,gloves_running_urgently,5,0,tf,"2_glovesurgent.png",Silver Gloves of Running Urgently
+648,gloves_running_urgently,10,0,tf,"3_glovesurgent.png",Gold Gloves of Running Urgently
+649,blackbox,1,0,tf,"1_blackbox.png",Bronze Black Box
+650,blackbox,5,0,tf,"2_blackbox.png",Silver Black Box
+651,blackbox,10,0,tf,"3_blackbox.png",Gold Black Box
+652,sydney_sleeper,1,0,tf,"1_sydneysleeper.png",Bronze Sydney Sleeper
+653,sydney_sleeper,5,0,tf,"2_sydneysleeper.png",Silver Sydney Sleeper
+654,sydney_sleeper,10,0,tf,"3_sydneysleeper.png",Gold Sydney Sleeper
+655,dalokohs,1,0,tf,"1_dalokohs.png",Bronze Dalokohs
+656,dalokohs,5,0,tf,"2_dalokohs.png",Silver Dalokohs
+657,dalokohs,10,0,tf,"3_dalokohs.png",Gold Dalokohs
+658,steak,1,0,tf,"1_steak.png",Bronze Buffalo Steak Sandvich
+659,steak,5,0,tf,"2_steak.png",Silver Buffalo Steak Sandvich
+660,steak,10,0,tf,"3_steak.png",Gold Buffalo Steak Sandvich
+661,claidheamohmor,1,0,tf,"1_claidheamohmor.png",Bronze Claidheamohmor
+662,claidheamohmor,5,0,tf,"2_claidheamohmor.png",Silver Claidheamohmor
+663,claidheamohmor,10,0,tf,"3_claidheamohmor.png",Gold Claidheamohmor
+664,back_scratcher,1,0,tf,"1_back_scratcher.png",Bronze Back Scratcher
+665,back_scratcher,5,0,tf,"2_back_scratcher.png",Silver Back Scratcher
+666,back_scratcher,10,0,tf,"3_back_scratcher.png",Gold Back Scratcher
+667,boston_basher,1,0,tf,"1_boston_basher.png",Bronze Boston Basher
+668,boston_basher,5,0,tf,"2_boston_basher.png",Silver Boston Basher
+669,boston_basher,10,0,tf,"3_boston_basher.png",Gold Boston Basher
+670,steel_fists,1,0,tf,"1_steel_fists.png",Bronze Steel Fists
+671,steel_fists,5,0,tf,"2_steel_fists.png",Silver Steel Fists
+672,steel_fists,10,0,tf,"3_steel_fists.png",Gold Steel Fists
+673,amputator,1,0,tf,"1_amputator.png",Bronze Amputator
+674,amputator,5,0,tf,"2_amputator.png",Silver Amputator
+675,amputator,10,0,tf,"3_amputator.png",Gold Amputator
+676,crusaders_crossbow,1,0,tf,"1_tf_projectile_healing_bolt.png",Bronze Crusader's Crossbow
+677,crusaders_crossbow,5,0,tf,"2_tf_projectile_healing_bolt.png",Silver Crusader's Crossbow
+678,crusaders_crossbow,10,0,tf,"3_tf_projectile_healing_bolt.png",Gold Crusader's Crossbow
+679,ullapool_caber,1,0,tf,"1_ullapool_caber.png",Bronze Ullapool Caber
+680,ullapool_caber,5,0,tf,"2_ullapool_caber.png",Silver Ullapool Caber
+681,ullapool_caber,10,0,tf,"3_ullapool_caber.png",Gold Ullapool Caber
+682,ullapool_caber_explosion,1,0,tf,"1_ullapool_caber_explosion.png",Bronze Ullapool Caber BOOM
+683,ullapool_caber_explosion,5,0,tf,"2_ullapool_caber_explosion.png",Silver Ullapool Caber BOOM
+684,ullapool_caber_explosion,10,0,tf,"3_ullapool_caber_explosion.png",Gold Ullapool Caber BOOM
+685,loch_n_load,1,0,tf,"1_lochnload.png",Bronze Loch-n-Load
+686,loch_n_load,5,0,tf,"2_lochnload.png",Silver Loch-n-Load
+687,loch_n_load,10,0,tf,"3_lochnload.png",Gold Loch-n-Load
+688,brass_beast,1,0,tf,"1_brassbeast.png",Bronze Brass Beast
+689,brass_beast,5,0,tf,"2_brassbeast.png",Silver Brass Beast
+690,brass_beast,10,0,tf,"3_brassbeast.png",Gold Brass Beast
+691,warrior_spirit,1,0,tf,"1_bear_claws.png",Bronze Warrior's Spirit
+692,warrior_spirit,5,0,tf,"2_bear_claws.png",Silver Warrior's Spirit
+693,warrior_spirit,10,0,tf,"3_bear_claws.png",Gold Warrior's Spirit
+694,candy_cane,1,0,tf,"1_candy_cane.png",Bronze Candy Cane
+695,candy_cane,5,0,tf,"2_candy_cane.png",Silver Candy Cane
+696,candy_cane,10,0,tf,"3_candy_cane.png",Gold Candy Cane
+697,wrench_jag,1,0,tf,"1_wrench_jag.png",Bronze Jag
+698,wrench_jag,5,0,tf,"2_wrench_jag.png",Silver Jag
+699,wrench_jag,10,0,tf,"3_wrench_jag.png",Gold Jag
+700,headtaker,1,0,tf,"1_headtaker.png",Bronze Horseless Headless Horseman's Headtaker
+701,headtaker,5,0,tf,"2_headtaker.png",Silver Horseless Headless Horseman's Headtaker
+702,headtaker,10,0,tf,"3_headtaker.png",Gold Horseless Headless Horseman's Headtaker
+703,iron_curtain,1,0,tf,"1_iron_curtain.png",Bronze Iron Curtain
+704,iron_curtain,5,0,tf,"2_iron_curtain.png",Silver Iron Curtain
+705,iron_curtain,10,0,tf,"3_iron_curtain.png",Gold Iron Curtain
+706,madmilk,1,0,tf,"1_madmilk.png",Bronze Mad Milk
+707,madmilk,5,0,tf,"2_madmilk.png",Silver Mad Milk
+708,madmilk,10,0,tf,"3_madmilk.png",Gold Mad Milk
+709,atomizer,1,0,tf,"1_atomizer.png",Bronze Atomizer
+710,atomizer,5,0,tf,"2_atomizer.png",Silver Atomizer
+711,atomizer,10,0,tf,"3_atomizer.png",Gold Atomizer
+712,bazaar_bargain,1,0,tf,"1_bazaar_bargain.png",Bronze Bazaar Bargain
+713,bazaar_bargain,5,0,tf,"2_bazaar_bargain.png",Silver Bazaar Bargain
+714,bazaar_bargain,10,0,tf,"3_bazaar_bargain.png",Gold Bazaar Bargain
+715,demokatana,1,0,tf,"1_demokatana.png",Bronze Half-Zatoichi
+716,demokatana,5,0,tf,"2_demokatana.png",Silver Half-Zatoichi
+717,demokatana,10,0,tf,"3_demokatana.png",Gold Half-Zatoichi
+718,detonator,1,0,tf,"1_detonator.png",Bronze Detonator
+719,detonator,5,0,tf,"2_detonator.png",Silver Detonator
+720,detonator,10,0,tf,"3_detonator.png",Gold Detonator
+721,disciplinary_action,1,0,tf,"1_disciplinary_action.png",Bronze Disciplinary Action
+722,disciplinary_action,5,0,tf,"2_disciplinary_action.png",Silver Disciplinary Action
+723,disciplinary_action,10,0,tf,"3_disciplinary_action.png",Gold Disciplinary Action
+724,enforcer,1,0,tf,"1_enforcer.png",Bronze Enforcer
+725,enforcer,5,0,tf,"2_enforcer.png",Silver Enforcer
+726,enforcer,10,0,tf,"3_enforcer.png",Gold Enforcer
+727,eviction_notice,1,0,tf,"1_eviction_notice.png",Bronze Eviction Notice
+728,eviction_notice,5,0,tf,"2_eviction_notice.png",Silver Eviction Notice
+729,eviction_notice,10,0,tf,"3_eviction_notice.png",Gold Eviction Notice
+730,family_business,1,0,tf,"1_family_business.png",Bronze Family Business
+731,family_business,5,0,tf,"2_family_business.png",Silver Family Business
+732,family_business,10,0,tf,"3_family_business.png",Gold Family Business
+733,kunai,1,0,tf,"1_kunai.png",Bronze Conniver's Kunai
+734,kunai,5,0,tf,"2_kunai.png",Silver Conniver's Kunai
+735,kunai,10,0,tf,"3_kunai.png",Gold Conniver's Kunai
+736,lava_axe,1,0,tf,"1_lava_axe.png",Bronze Sharpened Volcano Fragment
+737,lava_axe,5,0,tf,"2_lava_axe.png",Silver Sharpened Volcano Fragment
+738,lava_axe,10,0,tf,"3_lava_axe.png",Gold Sharpened Volcano Fragment
+739,lava_bat,1,0,tf,"1_lava_bat.png",Bronze Sun-on-a-Stick
+740,lava_bat,5,0,tf,"2_lava_bat.png",Silver Sun-on-a-Stick
+741,lava_bat,10,0,tf,"3_lava_bat.png",Gold Sun-on-a-Stick
+742,liberty_launcher,1,0,tf,"1_liberty_launcher.png",Bronze Liberty Launcher
+743,liberty_launcher,5,0,tf,"2_liberty_launcher.png",Silver Liberty Launcher
+744,liberty_launcher,10,0,tf,"3_liberty_launcher.png",Gold Liberty Launcher
+745,mantreads,1,0,tf,"1_mantreads.png",Bronze Mantreads
+746,mantreads,5,0,tf,"2_mantreads.png",Silver Mantreads
+747,mantreads,10,0,tf,"3_mantreads.png",Gold Mantreads
+748,market_gardener,1,0,tf,"1_market_gardener.png",Bronze Market Gardener
+749,market_gardener,5,0,tf,"2_market_gardener.png",Silver Market Gardener
+750,market_gardener,10,0,tf,"3_market_gardener.png",Gold Market Gardener
+751,persian_persuader,1,0,tf,"1_persian_persuader.png",Bronze Persian Persuader
+752,persian_persuader,5,0,tf,"2_persian_persuader.png",Silver Persian Persuader
+753,persian_persuader,10,0,tf,"3_persian_persuader.png",Gold Persian Persuader
+754,proto_syringe,1,0,tf,"1_proto_syringe.png",Bronze Overdose
+755,proto_syringe,5,0,tf,"2_proto_syringe.png",Silver Overdose
+756,proto_syringe,10,0,tf,"3_proto_syringe.png",Gold Overdose
+757,reserve_shooter,1,0,tf,"1_reserve_shooter.png",Bronze Reserve Shooter
+758,reserve_shooter,5,0,tf,"2_reserve_shooter.png",Silver Reserve Shooter
+759,reserve_shooter,10,0,tf,"3_reserve_shooter.png",Gold Reserve Shooter
+760,scout_sword,1,0,tf,"1_scout_sword.png",Bronze Three-Rune Blade
+761,scout_sword,5,0,tf,"2_scout_sword.png",Silver Three-Rune Blade
+762,scout_sword,10,0,tf,"3_scout_sword.png",Gold Three-Rune Blade
+763,shahanshah,1,0,tf,"1_shahanshah.png",Bronze Shahanshah
+764,shahanshah,5,0,tf,"2_shahanshah.png",Silver Shahanshah
+765,shahanshah,10,0,tf,"3_shahanshah.png",Gold Shahanshah
+766,soda_popper,1,0,tf,"1_soda_popper.png",Bronze Soda Popper
+767,soda_popper,5,0,tf,"2_soda_popper.png",Silver Soda Popper
+768,soda_popper,10,0,tf,"3_soda_popper.png",Gold Soda Popper
+769,solemn_vow,1,0,tf,"1_solemn_vow.png",Bronze Solemn Vow
+770,solemn_vow,5,0,tf,"2_solemn_vow.png",Silver Solemn Vow
+771,solemn_vow,10,0,tf,"3_solemn_vow.png",Gold Solemn Vow
+772,the_maul,1,0,tf,"1_the_maul.png",Bronze Maul
+773,the_maul,5,0,tf,"2_the_maul.png",Silver Maul
+774,the_maul,10,0,tf,"3_the_maul.png",Gold Maul
+775,the_winger,1,0,tf,"1_the_winger.png",Bronze Winger
+776,the_winger,5,0,tf,"2_the_winger.png",Silver Winger
+777,the_winger,10,0,tf,"3_the_winger.png",Gold Winger
+778,tomislav,1,0,tf,"1_tomislav.png",Bronze Tomislav
+779,tomislav,5,0,tf,"2_tomislav.png",Silver Tomislav
+780,tomislav,10,0,tf,"3_tomislav.png",Gold Tomislav
+781,warfan,1,0,tf,"1_warfan.png",Bronze Fan O'War
+782,warfan,5,0,tf,"2_warfan.png",Silver Fan O'War
+783,warfan,10,0,tf,"3_warfan.png",Gold Fan O'War
+784,big_earner,1,0,tf,"1_big_earner.png",Bronze Big Earner
+785,big_earner,5,0,tf,"2_big_earner.png",Silver Big Earner
+786,big_earner,10,0,tf,"3_big_earner.png",Gold Big Earner
+787,saxxy,1,0,tf,"1_saxxy.png",Bronze Saxxy
+788,saxxy,5,0,tf,"2_saxxy.png",Silver Saxxy
+789,saxxy,10,0,tf,"3_saxxy.png",Gold Saxxy
+790,splendid_screen,1,0,tf,"1_splendid_screen.png",Bronze Splendid Screen
+791,splendid_screen,5,0,tf,"2_splendid_screen.png",Silver Splendid Screen
+792,splendid_screen,10,0,tf,"3_splendid_screen.png",Gold Splendid Screen
+793,taunt_soldier_lumbricus,1,0,tf,"1_taunt_soldier_lumbricus.png",Bronze Kamikaze (Lumbricus Lid)
+794,taunt_soldier_lumbricus,5,0,tf,"2_taunt_soldier_lumbricus.png",Silver Kamikaze (Lumbricus Lid)
+795,taunt_soldier_lumbricus,10,0,tf,"3_taunt_soldier_lumbricus.png",Gold Kamikaze (Lumbricus Lid)
+796,nessieclub,1,0,tf,"1_nessieclub.png",Bronze Nessie's Nine Iron
+797,nessieclub,5,0,tf,"2_nessieclub.png",Silver Nessie's Nine Iron
+798,nessieclub,10,0,tf,"3_nessieclub.png",Gold Nessie's Nine Iron
+799,mailbox,1,0,tf,"1_mailbox.png",Bronze Postal Pummeler
+800,mailbox,5,0,tf,"2_mailbox.png",Silver Postal Pummeler
+801,mailbox,10,0,tf,"3_mailbox.png",Gold Postal Pummeler
+802,scout_extinguish,1,0,tf,"1_scout_extinguish.png",Bronze Scout Extinguish
+803,scout_extinguish,5,0,tf,"2_scout_extinguish.png",Silver Scout Extinguish
+804,scout_extinguish,10,0,tf,"3_scout_extinguish.png",Gold Scout Extinguish
+805,cow_mangler,1,0,tf,"1_cow_mangler.png",Bronze Cow Mangler 5000
+806,cow_mangler,5,0,tf,"2_cow_mangler.png",Silver Cow Mangler 5000
+807,cow_mangler,10,0,tf,"3_cow_mangler.png",Gold Cow Mangler 5000
+808,righteous_bison,1,0,tf,"1_righteous_bison.png",Bronze Righteous Bison
+809,righteous_bison,5,0,tf,"2_righteous_bison.png",Silver Righteous Bison
+810,righteous_bison,10,0,tf,"3_righteous_bison.png",Gold Righteous Bison
+811,tf_projectile_energy_ball,1,0,tf,"1_tf_projectile_energy_ball.png",Bronze Deflected Cow Mangler Shot
+812,tf_projectile_energy_ball,5,0,tf,"2_tf_projectile_energy_ball.png",Silver Deflected Cow Mangler Shot
+813,tf_projectile_energy_ball,10,0,tf,"3_tf_projectile_energy_ball.png",Gold Deflected Cow Mangler Shot
+814,machina,1,0,tf,"1_machina.png",Bronze Machina
+815,machina,5,0,tf,"2_machina.png",Silver Machina
+816,machina,10,0,tf,"3_machina.png",Gold Machina
+817,diamondback,1,0,tf,"1_diamondback.png",Bronze The Diamondback
+818,diamondback,5,0,tf,"2_diamondback.png",Silver The Diamondback
+819,diamondback,10,0,tf,"3_diamondback.png",Gold The Diamondback
+820,widowmaker,1,0,tf,"1_widowmaker.png",Bronze The Widowmaker
+821,widowmaker,5,0,tf,"2_widowmaker.png",Silver The Widowmaker
+822,widowmaker,10,0,tf,"3_widowmaker.png",Gold The Widowmaker
+823,short_circuit,1,0,tf,"1_short_circuit.png",Bronze The Short Circuit
+824,short_circuit,5,0,tf,"2_short_circuit.png",Silver The Short Circuit
+825,short_circuit,10,0,tf,"3_short_circuit.png",Gold The Short Circuit
+826,quake_rl,1,0,tf,"1_quake_rl.png",Bronze Original
+827,quake_rl,5,0,tf,"2_quake_rl.png",Silver Original
+828,quake_rl,10,0,tf,"3_quake_rl.png",Gold Original
+829,scotland_shard,1,0,tf,"1_scotland_shard.png",Bronze Scottish Handshake
+830,scotland_shard,5,0,tf,"2_scotland_shard.png",Silver Scottish Handshake
+831,scotland_shard,10,0,tf,"3_scotland_shard.png",Gold Scottish Handshake
+832,nonnonviolent_protest,1,0,tf,"1_nonnonviolent_protest.png",Bronze Conscientious Objector
+833,nonnonviolent_protest,5,0,tf,"2_nonnonviolent_protest.png",Silver Conscientious Objector
+834,nonnonviolent_protest,10,0,tf,"3_nonnonviolent_protest.png",Gold Conscientious Objector
+835,deflect_flare_detonator,1,0,tf,"1_deflect_flare_detonator.png",Bronze Deflected Flare (Detonator)
+836,deflect_flare_detonator,5,0,tf,"2_deflect_flare_detonator.png",Silver Deflected Flare (Detonator)
+837,deflect_flare_detonator,10,0,tf,"3_deflect_flare_detonator.png",Gold Deflected Flare (Detonator)
+838,deflect_huntsman_flyingburn,1,0,tf,"1_deflect_huntsman_flyingburn.png",Bronze Deflected Huntsman Burning Arrow
+839,deflect_huntsman_flyingburn,5,0,tf,"2_deflect_huntsman_flyingburn.png",Silver Deflected Huntsman Burning Arrow
+840,deflect_huntsman_flyingburn,10,0,tf,"3_deflect_huntsman_flyingburn.png",Gold Deflected Huntsman Burning Arrow
+841,unarmed_combat,1,0,tf,"1_unarmed_combat.png",Bronze Unarmed Combat
+842,unarmed_combat,5,0,tf,"2_unarmed_combat.png",Silver Unarmed Combat
+843,unarmed_combat,10,0,tf,"3_unarmed_combat.png",Gold Unarmed Combat
+844,player_penetration,1,0,tf,"1_player_penetration.png",Bronze Player Penetration
+845,player_penetration,5,0,tf,"2_player_penetration.png",Silver Player Penetration
+846,player_penetration,10,0,tf,"3_player_penetration.png",Gold Player Penetration
+847,builtobject_obj_teleporter,1,0,tf,"1_builtobject_obj_teleporter.png",Bronze Teleporters Built
+848,builtobject_obj_teleporter,5,0,tf,"2_builtobject_obj_teleporter.png",Silver Teleporters Built
+849,builtobject_obj_teleporter,10,0,tf,"3_builtobject_obj_teleporter.png",Gold Teleporters Built
+850,death_sawblade,1,0,tf,"1_death_sawblade.png",Bronze Deaths to Sawblade
+851,death_sawblade,5,0,tf,"2_death_sawblade.png",Silver Deaths to Sawblade
+852,death_sawblade,10,0,tf,"3_death_sawblade.png",Gold Deaths to Sawblade
+853,killedobject_obj_attachment_sapper,1,0,tf,"1_killedobject_obj_attachment_sapper.png",Bronze Sappers Removed
+854,killedobject_obj_attachment_sapper,5,0,tf,"2_killedobject_obj_attachment_sapper.png",Silver Sappers Removed
+855,killedobject_obj_attachment_sapper,10,0,tf,"3_killedobject_obj_attachment_sapper.png",Gold Sappers Removed
+856,killedobject_obj_teleporter,1,0,tf,"1_killedobject_obj_teleporter.png",Bronze Teleporters Killed
+857,killedobject_obj_teleporter,5,0,tf,"2_killedobject_obj_teleporter.png",Silver Teleporters Killed
+858,killedobject_obj_teleporter,10,0,tf,"3_killedobject_obj_teleporter.png",Gold Teleporters Killed
+859,eureka_effect,1,0,tf,"1_eureka_effect.png",Bronze Eureka Effect
+860,eureka_effect,5,0,tf,"2_eureka_effect.png",Silver Eureka Effect
+861,eureka_effect,10,0,tf,"3_eureka_effect.png",Gold Eureka Effect
+862,holiday_punch,1,0,tf,"1_holiday_punch.png",Bronze Holiday Punch
+863,holiday_punch,5,0,tf,"2_holiday_punch.png",Silver Holiday Punch
+864,holiday_punch,10,0,tf,"3_holiday_punch.png",Gold Holiday Punch
+865,manmelter,1,0,tf,"1_manmelter.png",Bronze Manmelter
+866,manmelter,5,0,tf,"2_manmelter.png",Silver Manmelter
+867,manmelter,10,0,tf,"3_manmelter.png",Gold Manmelter
+868,phlogistinator,1,0,tf,"1_phlogistinator.png",Bronze Phlogistinator
+869,phlogistinator,5,0,tf,"2_phlogistinator.png",Silver Phlogistinator
+870,phlogistinator,10,0,tf,"3_phlogistinator.png",Gold Phlogistinator
+871,pomson,1,0,tf,"1_pomson.png",Bronze Pomson 6000
+872,pomson,5,0,tf,"2_pomson.png",Silver Pomson 6000
+873,pomson,10,0,tf,"3_pomson.png",Gold Pomson 6000
+874,spy_cicle,1,0,tf,"1_spy_cicle.png",Bronze Spy-cicle
+875,spy_cicle,5,0,tf,"2_spy_cicle.png",Silver Spy-cicle
+876,spy_cicle,10,0,tf,"3_spy_cicle.png",Gold Spy-cicle
+877,thirddegree,1,0,tf,"1_thirddegree.png",Bronze Third Degree
+878,thirddegree,5,0,tf,"2_thirddegree.png",Silver Third Degree
+879,thirddegree,10,0,tf,"3_thirddegree.png",Gold Third Degree
+880,wrap_assassin,1,0,tf,"1_wrap_assassin.png",Bronze Wrap Assassin
+881,wrap_assassin,5,0,tf,"2_wrap_assassin.png",Silver Wrap Assassin
+882,wrap_assassin,10,0,tf,"3_wrap_assassin.png",Gold Wrap Assassin
+883,pep_pistol,1,0,tf,"1_pep_pistol.png",Bronze Pretty Boy's Pocket Pistol 
+884,pep_pistol,5,0,tf,"2_pep_pistol.png",Silver Pretty Boy's Pocket Pistol 
+885,pep_pistol,10,0,tf,"3_pep_pistol.png",Gold Pretty Boy's Pocket Pistol 
+886,pep_brawlerblaster,1,0,tf,"1_pep_brawlerblaster.png",Bronze Baby Face's Blaster
+887,pep_brawlerblaster,5,0,tf,"2_pep_brawlerblaster.png",Silver Baby Face's Blaster
+888,pep_brawlerblaster,10,0,tf,"3_pep_brawlerblaster.png",Gold Baby Face's Blaster
+889,dumpster_device,1,0,tf,"1_dumpster_device.png",Bronze Beggar's Bazooka
+890,dumpster_device,5,0,tf,"2_dumpster_device.png",Silver Beggar's Bazooka
+891,dumpster_device,10,0,tf,"3_dumpster_device.png",Gold Beggar's Bazooka
+892,pro_smg,1,0,tf,"1_pro_smg.png",Bronze The Cleaner's Carbine
+893,pro_smg,5,0,tf,"2_pro_smg.png",Silver The Cleaner's Carbine
+894,pro_smg,10,0,tf,"3_pro_smg.png",Gold The Cleaner's Carbine
+895,pro_rifle,1,0,tf,"1_pro_rifle.png",Bronze The Hitman's Heatmaker
+896,pro_rifle,5,0,tf,"2_pro_rifle.png",Silver The Hitman's Heatmaker
+897,pro_rifle,10,0,tf,"3_pro_rifle.png",Gold The Hitman's Heatmaker
+898,rainblower,1,0,tf,"1_rainblower.png",Bronze The Rainblower
+899,rainblower,5,0,tf,"2_rainblower.png",Silver The Rainblower
+900,rainblower,10,0,tf,"3_rainblower.png",Gold The Rainblower
+901,lollichop,1,0,tf,"1_lollichop.png",Bronze The Lollichop
+902,lollichop,5,0,tf,"2_lollichop.png",Silver The Lollichop
+903,lollichop,10,0,tf,"3_lollichop.png",Gold The Lollichop
+904,scorch_shot,1,0,tf,"1_scorch_shot.png",Bronze The Scorch Shot
+905,scorch_shot,5,0,tf,"2_scorch_shot.png",Silver The Scorch Shot
+906,scorch_shot,10,0,tf,"3_scorch_shot.png",Gold The Scorch Shot
+907,unique_pickaxe_escape,1,0,tf,"1_unique_pickaxe_escape.png",Bronze The Escape Plan
+908,unique_pickaxe_escape,5,0,tf,"2_unique_pickaxe_escape.png",Silver The Escape Plan
+909,unique_pickaxe_escape,10,0,tf,"3_unique_pickaxe_escape.png",Gold The Escape Plan
+1845,dragons_fury,10,0,tf,"3_dragons_fury.png",Gold Dragon's Fury (afterburn)
+1844,dragons_fury,5,0,tf,"2_dragons_fury.png",Silver Dragon's Fury (afterburn)
+1843,dragons_fury,1,0,tf,"1_dragons_fury.png",Bronze Dragon's Fury (afterburn)
+1842,ham_shank,10,0,tf,"3_ham_shank.png",Gold Ham Shank
+1841,ham_shank,5,0,tf,"2_ham_shank.png",Silver Ham Shank
+1840,ham_shank,1,0,tf,"1_ham_shank.png",Bronze Ham Shank
+1839,prinny_machete,10,0,tf,"3_prinny_machete.png",Gold Prinny Machete
+1838,prinny_machete,5,0,tf,"2_prinny_machete.png",Silver Prinny Machete
+1837,prinny_machete,1,0,tf,"1_prinny_machete.png",Bronze Prinny Machete
+1836,the_capper,10,0,tf,"3_the_capper.png",Gold C.A.P.P.E.R.
+1835,the_capper,5,0,tf,"2_the_capper.png",Silver C.A.P.P.E.R.
+1834,the_capper,1,0,tf,"1_the_capper.png",Bronze C.A.P.P.E.R.
+1833,shooting_star,10,0,tf,"3_shooting_star.png",Gold Shooting Star
+1832,shooting_star,5,0,tf,"2_shooting_star.png",Silver Shooting Star
+1831,shooting_star,1,0,tf,"1_shooting_star.png",Bronze Shooting Star
+1830,batsaber,10,0,tf,"3_batsaber.png",Gold Batsaber
+1829,batsaber,5,0,tf,"2_batsaber.png",Silver Batsaber
+1828,batsaber,1,0,tf,"1_batsaber.png",Bronze Batsaber
+1827,panic_attack,10,0,tf,"3_panic_attack.png",Gold Panic Attack
+1826,panic_attack,5,0,tf,"2_panic_attack.png",Silver Panic Attack
+1825,panic_attack,1,0,tf,"1_panic_attack.png",Bronze Panic Attack
+1824,quickiebomb_launcher,10,0,tf,"3_quickiebomb_launcher.png",Gold Quickiebomb Launcher
+1823,quickiebomb_launcher,5,0,tf,"2_quickiebomb_launcher.png",Silver Quickiebomb Launcher
+1822,quickiebomb_launcher,1,0,tf,"1_quickiebomb_launcher.png",Bronze Quickiebomb Launcher
+1821,iron_bomber,10,0,tf,"3_iron_bomber.png",Gold Iron Bomber
+1820,iron_bomber,5,0,tf,"2_iron_bomber.png",Silver Iron Bomber
+1819,iron_bomber,1,0,tf,"1_iron_bomber.png",Bronze Iron Bomber
+1818,crossing_guard,10,0,tf,"3_crossing_guard.png",Gold Crossing Guard
+1817,crossing_guard,5,0,tf,"2_crossing_guard.png",Silver Crossing Guard
+1816,crossing_guard,1,0,tf,"1_crossing_guard.png",Bronze Crossing Guard
+1815,necro_smasher,10,0,tf,"3_necro_smasher.png",Gold Necro Smasher
+1814,necro_smasher,5,0,tf,"2_necro_smasher.png",Silver Necro Smasher
+1813,necro_smasher,1,0,tf,"1_necro_smasher.png",Bronze Necro Smasher
+1812,ai_flamethrower,10,0,tf,"3_ai_flamethrower.png",Gold Nostromo Napalmer
+1811,ai_flamethrower,5,0,tf,"2_ai_flamethrower.png",Silver Nostromo Napalmer
+1810,ai_flamethrower,1,0,tf,"1_ai_flamethrower.png",Bronze Nostromo Napalmer
+1809,tide_turner,10,0,tf,"3_tide_turner.png",Gold Tide Turner
+1808,tide_turner,5,0,tf,"2_tide_turner.png",Silver Tide Turner
+1807,tide_turner,1,0,tf,"1_tide_turner.png",Bronze Tide Turner
+1798,the_classic,1,0,tf,"1_the_classic.png",Bronze Classic
+1799,the_classic,5,0,tf,"2_the_classic.png",Silver Classic
+1800,the_classic,10,0,tf,"3_the_classic.png",Gold Classic
+1801,back_scatter,1,0,tf,"1_back_scatter.png",Bronze Back Sckatter
+1802,back_scatter,5,0,tf,"2_back_scatter.png",Bronze Back Sckatter
+1803,back_scatter,10,0,tf,"3_back_scatter.png",Bronze Back Sckatter
+1804,airstrike,1,0,tf,"1_airstrike.png",Bronze Air Strike
+1805,airstrike,5,0,tf,"2_airstrike.png",Silver Air Strike
+1806,airstrike,10,0,tf,"3_airstrike.png",Gold Air Strike
+1866,guillotine,10,0,tf,"3_guillotine.png",Gold Flying Guillotine
+1865,guillotine,5,0,tf,"2_guillotine.png",Silver Flying Guillotine
+1864,guillotine,1,0,tf,"1_guillotine.png",Bronze Flying Guillotine
+1863,annihilator,10,0,tf,"3_annihilator.png",Gold Neon Annihilator
+1862,annihilator,5,0,tf,"2_annihilator.png",Silver Neon Annihilator
+1861,annihilator,1,0,tf,"1_annihilator.png",Bronze Neon Annihilator
+1860,rocketpack_stomp,10,0,tf,"3_rocketpack_stomp.png",Gold Thermal Thruster Stomp
+1859,rocketpack_stomp,5,0,tf,"2_rocketpack_stomp.png",Silver Thermal Thruster Stomp
+1858,rocketpack_stomp,1,0,tf,"1_rocketpack_stomp.png",Bronze Thermal Thruster Stomp
+1857,hot_hand,10,0,tf,"3_hot_hand.png",Gold Hot Hand
+1856,hot_hand,5,0,tf,"2_hot_hand.png",Silver Hot Hand
+1855,hot_hand,1,0,tf,"1_hot_hand.png",Bronze Hot Hand
+1854,banana,10,0,tf,"3_banana.png",Gold Banana
+1853,banana,5,0,tf,"2_banana.png",Silver Banana
+1852,banana,1,0,tf,"1_banana.png",Bronze Banana
+1851,gas_attack,10,0,tf,"3_gas_attack.png",Gold Gas Passer
+1850,gas_attack,5,0,tf,"2_gas_attack.png",Silver Gas Passer
+1849,gas_attack,1,0,tf,"1_gas_attack.png",Bronze Gas Passer
+1848,dragons_fury_bonus,10,0,tf,"3_dragons_fury_bonus.png",Gold  Dragon's Fury
+1846,dragons_fury_bonus,1,0,tf,"1_dragons_fury_bonus.png",Bronze Dragon's Fury
+1847,dragons_fury_bonus,5,0,tf,"2_dragons_fury_bonus.png",Silver Dragon's Fury
+1867,long_heatmaker,1,0,tf,"1_long_heatmaker.png",Bronze Huo-long Heater
+1868,long_heatmaker,5,0,tf,"2_long_heatmaker.png",Silver Huo-long Heater
+1869,long_heatmaker,10,0,tf,"3_long_heatmaker.png",Gold Huo-long Heater
+1870,injector_used,1,0,tf,"1_injector_used.png",Bronze Injector
+1871,injector_used,5,0,tf,"2_injector_used.png",Silver Injector
+1872,injector_used,10,0,tf,"3_injector_used.png",Gold Injector
+1875,sappers_thrown,10,0,tf,"3_sappers_thrown.png",Gold Sappers Thrown
+1874,got_injected,5,0,tf,"2_got_injected.png",Silver Injector Gotten
+1873,got_injected,1,0,tf,"1_got_injected.png",Bronze Injector Gotten
+1876,sappers_thrown,5,0,tf,"2_sappers_thrown.png",Silver Sappers Thrown
+1877,sappers_thrown,1,0,tf,"1_sappers_thrown.png",Bronze Sappers Thrown
+1878,got_injected,10,0,tf,"3_got_injected.png",Gold Injector Gotten
+1879,vita_saw_patient,10,0,tf,"3_vita_saw_patient.png",Gold Vita-Saw patient
+1880,vita_saw_patient,5,0,tf,"2_vita_saw_patient.png",Silver Vita-Saw patient
+1881,vita_saw_patient,1,0,tf,"1_vita_saw_patient.png",Bronze Vita-Saw patient
+1882,vita_saw_medic,1,0,tf,"1_vita_saw_medic.png",Bronze Vita-Saw medic
+1883,vita_saw_medic,5,0,tf,"2_vita_saw_medic.png",Silver Vita-Saw medic
+1884,vita_saw_medic,10,0,tf,"3_vita_saw_medic.png",Gold Vita-Saw medic
+1885,fatscout,1,0,tf,"1_fatscout.png",Ω Bronze Fatscout Scattergun
+1886,fatscout,5,0,tf,"2_fatscout.png",Ω Silver Fatscout Scattergun
+1887,fatscout,10,0,tf,"3_fatscout.png",Ω Gold Fatscout Scattergun
+1888,fatscout-bat,10,0,tf,"3_fatscout.png",Ω Gold Fatscout Bat
+1889,fatscout-bat,5,0,tf,"2_fatscout.png",Ω Silver Fatscout Bat
+1890,fatscout-bat,1,0,tf,"1_fatscout.png",Ω Bronze Fatscout Bat
+1891,vita_saw_extinguish,1,0,tf,"1_vita_saw_extinguish.png",Ω Bronze Vita-Saw fire fighter
+1892,vita_saw_extinguish,5,0,tf,"2_vita_saw_extinguish.png",Ω Silver Vita-Saw fire fighter
+1893,vita_saw_extinguish,10,0,tf,"3_vita_saw_extinguish.png",Ω Gold Vita-Saw fire fighter
+1894,crate_smasher,5,0,tf,"2_crate_smasher.png",Ω Silver Crate Smasher
+1895,crate_smasher,1,0,tf,"1_crate_smasher.png",Ω Bronze Crate Smasher
+1896,crate_smasher,10,0,tf,"3_crate_smasher.png",Ω Gold Crate Smasher
+1897,thumper,5,0,tf,"2_thumper.png",Ω Silver Thumper
+1898,thumper,1,0,tf,"1_thumper.png",Ω Bronze Thumper
+1899,thumper,10,0,tf,"3_thumper.png",Ω Gold Thumper
+1900,hypodermic_injector,1,0,tf,"1_hypodermic_injector.png",Ω Bronze Hypodermic Injector
+1901,hypodermic_injector,5,0,tf,"2_hypodermic_injector.png",Ω Silver Hypodermic Injector
+1902,hypodermic_injector,10,0,tf,"3_hypodermic_injector.png",Ω Gold Hypodermic Injector
+1903,gamma_gazer,1,0,tf,"1_gamma_gazer.png",Ω Bronze Gamma Gazer
+1904,gamma_gazer,5,0,tf,"2_gamma_gazer.png",Ω Silver Gamma Gazer
+1905,gamma_gazer,10,0,tf,"3_gamma_gazer.png",Ω Gold Gamma Gazer
+1906,carved_cutter,1,0,tf,"1_carved_cutter.png",Ω Bronze Carved Cutter
+1907,carved_cutter,5,0,tf,"2_carved_cutter.png",Ω Silver Carved Cutter
+1908,carved_cutter,10,0,tf,"3_carved_cutter.png",Ω Gold Carved Cutter
+1909,wasp,1,0,tf,"1_wasp.png",Ω Bronze W.A.S.P. Launcher
+1910,wasp,5,0,tf,"2_wasp.png",Ω Silver W.A.S.P. Launcher
+1911,wasp,10,0,tf,"3_wasp.png",Ω Gold W.A.S.P. Launcher
+1912,quickdraw,10,0,tf,"3_quickdraw.png",Ω Gold Quickdraw
+1913,quickdraw,5,0,tf,"2_quickdraw.png",Ω Silver Quickdraw
+1914,quickdraw,1,0,tf,"1_quickdraw.png",Ω Bronze Quickdraw
+1915,brick,1,0,tf,"1_brick.png",Ω Bronze Brick
+1916,brick,5,0,tf,"2_brick.png",Ω Silver Brick
+1917,brick,10,0,tf,"3_brick.png",Ω Gold Brick
+1918,bolshevik_bomber,1,0,tf,"1_bolshevik_bomber.png",Ω Bronze Bolshevik Bomber
+1919,bolshevik_bomber,5,0,tf,"2_bolshevik_bomber.png",Ω Silver Bolshevik Bomber
+1920,bolshevik_bomber,10,0,tf,"3_bolshevik_bomber.png",Ω Gold Bolshevik Bomber
+1921,panknife,1,0,tf,"1_panknife.png",Ω Bronze Pan Knife
+1922,panknife,5,0,tf,"2_panknife.png",Ω Silver Pan Knife
+1923,panknife,10,0,tf,"3_panknife.png",Ω Gold Pan Knife
+1924,panwrench,1,0,tf,"1_panwrench.png",Ω Bronze Pan Wrench
+1925,panwrench,5,0,tf,"2_panwrench.png",Ω Silver Pan Wrench
+1926,panwrench,10,0,tf,"3_panwrench.png",Ω Gold Pan Wrench

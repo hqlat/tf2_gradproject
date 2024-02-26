@@ -1,0 +1,6 @@
+"player_id","server_id","cli_address","cli_city","cli_country","cli_flag","cli_state","cli_lat","cli_lng","steam_id","name","team","kills","deaths","suicides","headshots","shots","hits","is_dead","has_bomb","ping","connected","skill_change","skill"
+76069,32,"","","","","",,,BOT,SourceTV,"",0,0,0,0,0,0,0,0,0,1704668133,0,0
+76059,35,"","","","","",,,BOT,"","",0,0,0,0,0,0,0,0,0,1704668141,0,0
+76070,6,"","","","","",,,BOT,SourceTV,"",0,0,0,0,0,0,0,0,0,1704668137,0,0
+83423,11,"","","","","",,,BOT,SourceTV,Spectator,0,0,0,0,0,0,0,0,0,1704668133,0,0
+83422,4,"","","","","",,,BOT,SourceTV,Spectator,0,0,0,0,0,0,0,0,0,1704668127,0,0

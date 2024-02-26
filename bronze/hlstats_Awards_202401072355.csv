@@ -1,0 +1,263 @@
+"awardId","awardType","game","code","name","verb","d_winner_id","d_winner_count","g_winner_id","g_winner_count"
+1,P,tf,domination,Dominator,dominations,,,223,40
+2,V,tf,domination,Most dominated,times got dominated,,,2,14
+3,P,tf,revenge,King of vengence,revenges,,,67668,12
+4,W,tf,tf_projectile_pipe_remote,Remote Demolition Man,pipe bomb kills,,,256,31
+5,W,tf,tf_projectile_pipe,Demolition Man,pipe bomb kills,,,9434,15
+6,W,tf,sniperrifle,Top Sniper,snipings,,,2,41
+7,W,tf,smg,Submachine gun,smg kills,,,2,4
+8,W,tf,shotgun_soldier,Shotgun Soldier,shotgun kills,,,10345,10
+9,W,tf,shotgun_pyro,Shotgun Pyro,shotgun kills,,,201,1
+10,W,tf,shotgun_primary,Shotgun,shotgun kills,,,67668,8
+11,W,tf,scattergun,Fast and Furious,scattergun kills,,,223,17
+12,W,tf,revolver,Wayne,revolver kills,,,,
+13,W,tf,pistol,Pistol,pistol kills,,,12279,7
+14,W,tf,allsentrykills,Engineer,sentry kills,,,3288,15
+15,W,tf,minigun,Terminator,minigun kills,,,9434,28
+16,W,tf,knife,Stabber,knifings,,,52846,14
+17,W,tf,flamethrower,Pyro,flame burnings,,,52846,24
+18,W,tf,bat,Baseball freak,bat kills,,,3288,1
+19,O,tf,pointcaptured,Capturer,checkpoint captures,,,9434,26
+21,O,tf,captureblocked,Blocker,checkpoint blockings,,,223,28
+22,O,tf,uber,Uber,Ubers,,,225,31
+23,W,tf,airstrike,Carpet Bomber,Air Strike kills,,,70739,5
+24,W,tf,tf_projectile_rocket,Soldier,rocket kills,,,198,50
+25,W,tf,wrench,Engineer on Rage,wrench kills,,,,
+26,W,tf,shovel,Grave Digger,shovel kills,,,,
+27,W,tf,fireaxe,Axe-O-Mania,axe kills,,,,
+28,W,tf,bottle,Drunken Demo-ralizer,bottle kills,,,,
+29,W,tf,bonesaw,The Saw,sawed bones,,,67668,2
+30,W,tf,fists,Fisting king,fistings,,,9434,1
+31,W,tf,club,Now that's a knife,machete kills,,,67668,3
+32,W,tf,pistol_scout,Scout Pistol,pistol kills,,,70739,2
+33,W,tf,shotgun_hwg,Shotgun Heavy,shotgun kills,,,9434,18
+34,W,tf,syringegun_medic,The Needler,syringe kills,,,2,5
+35,W,tf,axtinguisher,Axtinguisher,kills with the axtinguisher,,,49173,8
+36,W,tf,backburner,Asses to ashes,burned backs,,,9434,2
+37,W,tf,blutsauger,Blutsauger,times sucked blood,,,3288,6
+38,W,tf,flaregun,SOS Signal gone wrong,flare gun kills,,,223,8
+39,W,tf,gloves,Heavy surgery,KGB kills,,,256,2
+40,W,tf,natascha,Nataschas Friend,Natascha kills,,,11529,12
+41,W,tf,ubersaw,Ubersaw,kills with ubersaw,,,52846,4
+42,W,tf,deflect_flare,Deflected Flare,kills with deflected flare,,,,
+43,W,tf,telefrag,Lucky Duck,kills by telefrag,,,74104,1
+44,W,tf,deflect_promode,Deflected Grenade,kills with deflected grenade,,,198,1
+45,W,tf,deflect_rocket,On the Rebound,kills with deflected rocket,,,223,3
+46,W,tf,deflect_sticky,Deflected Sticky,kills with deflected sticky,,,,
+47,W,tf,deflect_arrow,Deflected Arrow,kills with deflected arrow,,,,
+48,W,tf,taunt_heavy,POW! Ha Ha,kills with heavy taunt,,,,
+49,W,tf,taunt_pyro,Hadouken,kills with Hadouken,,,,
+50,W,tf,mostkills,Most Kills,kills,,,223,45760
+51,W,tf,bonuspoints,Most Bonus Points,bonus points,,,2,1481
+52,O,tf,sandvich,Hungry Hungry Heavy,sandviches eaten,,,2,4
+54,O,tf,flagevent_defended,Defender of the Flag,flag defenses,,,9434,10
+55,O,tf,flagevent_captured,The Mad Capper,flag captures,,,78482,4
+56,O,tf,killedobject_obj_dispenser,NO METAL FOR YOU!,dispensers destroyed,,,9434,23
+57,O,tf,killedobject_obj_sentrygun,Say no to sentries,sentry guns destroyed,,,3288,26
+58,O,tf,killedobject_obj_sentrygun_mini,Say no to mini sentries,mini sentry guns destroyed,,,256,27
+59,O,tf,player_builtobject_obj_sentrygun,Bob the Builder,sentry guns built,,,256,33
+60,O,tf,builtobject_obj_sentrygun_mini,Mini Bob the Builder,mini sentry guns built,,,12279,47
+61,O,tf,player_builtobject_obj_attachment_sapper,Super Sapper,sappers placed,,,52846,37
+63,P,tf,stun,Absolutely Stunning,stuns,,,223,88
+64,O,tf,pyro_extinguish,Give It a Little Blow,extinguishes with Flamethrower,,,49173,26
+65,O,tf,sniper_extinguish,Douser,extinguishes with Jarate,,,2,4
+66,O,tf,medic_extinguish,Medic Extinguish,extinguishes with Heal Gun,,,72861,24
+67,O,tf,engineer_extinguish,Engineer Extinguish,extinguishes with Dispenser,,,256,11
+68,W,tf,force_a_nature,Who wants some of this?,kills with the Force-A-Nature,,,256,1
+69,W,tf,ambassador,Diplomatic Immunity,kills with the Ambassador,,,,
+70,W,tf,tf_projectile_arrow,Quivering Fool,kills with the Huntsman,,,81665,11
+71,W,tf,taunt_spy,Dangerous Crab,spy taunt kills,,,,
+72,W,tf,taunt_sniper,Robin Hood,sniper taunt kills,,,67668,2
+73,P,tf,shield_blocked,Razor Breakin,razorbacks broken,,,,
+74,V,tf,shield_blocked,Broken Back,razorbacks broken (sniper),,,,
+75,P,tf,jarate,Urine' For A Surprise,jarates,,,2,34
+76,V,tf,jarate,Yellow Bellied Spies,times a jarate victim,,,223,6
+77,W,tf,ai_flamethrower,Got a light?,Nostromo Napalmer,,,3288,1
+78,O,tf,mvp1,Most Valuable Player,wins as Most Valuable Player,,,9434,9
+79,W,tf,taunt_scout,Not even winded,scout taunt kills,,,,
+80,W,tf,sandman,Batter Up!,kills with the Sandman,,,,
+81,W,tf,rocketlauncher_directhit,Skill Rockets,kills with the Direct Hit,,,27950,12
+82,W,tf,unique_pickaxe,Prospectors Piercings,kills with the Equalizer,,,,
+83,W,tf,sword,Swords a Slicing,kills with the Eyelander,,,70739,1
+84,W,tf,sticky_resistance,Skill Stickies,kills with the Scottish Resistance,,,78482,2
+85,W,tf,taunt_demoman,Sword Swallowers,Demoman taunt kills,,,,
+86,W,tf,taunt_soldier,Good-bye Cruel Worlds,Soldier taunt kills,,,,
+87,O,tf,buff_deployed,Rootin Tootin Shootin,Buffs deployed,,,78412,15
+88,O,tf,defended_medic,Get behind me doctor!,Medics defended,,,9434,16
+89,W,tf,demoshield,Got something for ya!,kills with the Chargin' Targe,,,,
+90,O,tf,player_builtobject_obj_dispenser,Dispenser Here!,Dispensers built,,,256,31
+91,P,tf,steal_sandvich,"Mmm, Ham",stolen Sandviches,,,9434,2
+92,O,tf,teleport,One to beam up!,players Teleported,,,78482,99
+93,W,tf,tf_projectile_arrow_fire,Fire Flight,kills with the Flaming Huntsman,,,9434,1
+94,O,tf,killed_charged_medic,Juice Loosener,Charged Medics killed,,,223,2
+95,W,tf,ball,Fly Ball,kills with the Baseball,,,256,1
+96,W,tf,taunt_medic,Oktoberfest!,medic taunt kills,,,,
+97,W,tf,paintrain,Come on ride THE PAIN TRAIN,kills with The Pain Train,,,201,1
+98,W,tf,sledgehammer,Homewreckin,kills with The Homewrecker,,,,
+99,W,tf,tribalkukri,The Tribalman's Shiv,kills with The Tribalman's Shiv,,,,
+100,W,tf,battleaxe,Scotsman's Skullcutter,kills with The Scotsman's Skullcutter,,,67668,1
+101,W,tf,frontier_justice,Justified Kills,kills with the Frontier Justice,,,81665,9
+102,W,tf,obj_minisentry,It's Little and Cute and Ben's Sister Likes It,Mini Sentry Gun kills,,,12279,14
+103,W,tf,robot_arm,Slings Slung,kills with the Gunslinger,,,78482,1
+104,W,tf,robot_arm_combo_kill,"One, Two, Punch!",Gunslinger Combo Kills,,,223,1
+105,W,tf,robot_arm_blender_kill,Mixed ya right up!,Engineer taunt kills (Gunslinger),,,,
+106,W,tf,bleed_kill,We've got a bleeder,bleed kills,,,9434,1
+107,W,tf,southern_hospitality,Southern This!,kills with the Southern Hospitality,,,,
+108,W,tf,taunt_guitar_kill,Despite all my rage there's a Guitar on your head,Engineer taunt kills (Guitar),,,,
+109,W,tf,wrangler_kill,Rustlers Wrangled,kills with the Wrangler,,,,
+110,W,tf,battleneedle,Take your Vita-Saws,kills with The Vita-Saw,,,27950,2
+111,W,tf,powerjack,Powerjacking,kills with The Powerjack,,,78482,1
+112,W,tf,degreaser,Degreased,kills with The Degreaser,,,223,11
+113,W,tf,shortstop,Stopping Short,kills with The Shortstop,,,12279,15
+114,W,tf,holymackerel,Something's Fishy,kills with The Holy Mackerel,,,,
+115,W,tf,letranger,Ranged,kills with the L'Etranger,,,9434,7
+116,W,tf,eternal_reward,It goes on and on...,kills with Your Eternal Reward,,,49173,13
+117,W,tf,fryingpan,Fried Egg,kills with the Frying Pan,,,2,1
+118,W,tf,bushwacka,George Bushwacka,kills with The Bushwacka,,,2,2
+119,W,tf,gloves_running_urgently,It's Urgent,kills with the Gloves of Running Urgently,,,71017,2
+120,W,tf,blackbox,What's in the box?,kills with The Black Box,,,72861,9
+121,W,tf,sydney_sleeper,Down Under,kills with The Sydney Sleeper,,,,
+122,O,tf,dalokohs,Russian Diabetes,Dalokohs eaten,,,71017,32
+123,O,tf,hit_by_train,Flattened,deaths from train,,,,
+124,O,tf,headshot,Headache,headshots,,,2,72
+126,O,tf,steak,"Don't Run, Its Just Steak",Buffalo Steak Sandviches eaten,,,256,12
+127,W,tf,claidheamohmor,Claidheamohmor,Claidheamohmor kills,,,,
+128,W,tf,back_scratcher,Rakes Wrecked,Back Scratcher kills,,,,
+129,W,tf,boston_basher,Boston Basher,Boston Basher kills,,,,
+130,W,tf,steel_fists,My Fists They Are Made Of Steel!,kills with the Fists of Steel,,,27950,1
+131,W,tf,amputator,Amputator,Amputator kills,,,3288,1
+132,W,tf,crusaders_crossbow,Bolts Blown,Crusader's Crossbow kills,,,72861,4
+133,W,tf,ullapool_caber,Caber's Clubbed,Caber bash kills,,,223,2
+134,W,tf,ullapool_caber_explosion,Boom Sticka,Caber BOOM kills,,,223,1
+135,W,tf,loch_n_load,Loch-n-Load'd,Loch-n-Load kills,,,223,17
+136,W,tf,brass_beast,Brass Beast,Brass Beast kills,,,81665,8
+137,W,tf,warrior_spirit,Clawed Candyasses,Warrior's Spirit kills,,,,
+138,W,tf,candy_cane,Canes Cracked,Candy Cane kills,,,,
+139,W,tf,wrench_jag,Jag'd Off,Jag kills,,,,
+140,W,tf,iron_curtain,In Soviet Russia Curtain Irons You!,Iron Curtain kills,,,256,9
+141,W,tf,headtaker,Horseless Headless Horseman's Headtaker,Horseless Headless Horseman's Headtaker kills,,,223,10
+142,P,tf,madmilk,Creamed,Mad Milk hits,,,9844,8
+143,W,tf,atomizer,Atoms Split,Atomizer kills,,,,
+144,W,tf,bazaar_bargain,Bargins Earned,Bazaar Bargain kills,,,2,40
+145,W,tf,demokatana,Samurai Swipes,Half-Zatoichi kills,,,70739,8
+146,W,tf,detonator,Detonations Served,Detonator kills,,,223,3
+147,W,tf,disciplinary_action,Disciplined to Death,Disciplinary Action kills,,,,
+148,W,tf,enforcer,Deaths Enforced,Enforcer kills,,,256,1
+149,W,tf,eviction_notice,Souls Evicted,Eviction Notice kills,,,2,1
+150,W,tf,family_business,Cement Shoes Dispensed,Family Business kills,,,67668,5
+151,W,tf,kunai,Spikes Implanted,Conniver's Kunai kills,,,70739,6
+152,W,tf,lava_axe,Fragments Fragged,Sharpened Volcano Fragment kills,,,78412,1
+153,W,tf,lava_bat,Afterlives Brightened,Sun-on-a-Stick kills,,,,
+154,W,tf,liberty_launcher,Lives Liberated,Liberty Launcher kills,,,9434,15
+155,W,tf,mantreads,Goombas Stomped,Mantreads kills,,,,
+156,W,tf,market_gardener,Garden Graves Dug,Market Gardener kills,,,9434,2
+157,W,tf,persian_persuader,Persons Persuaded,Persian Persuader kills,,,11529,1
+158,W,tf,proto_syringe,Patients Overdosed,Overdose kills,,,,
+159,W,tf,reserve_shooter,Reservations Made,Reserve Shooter kills,,,9434,4
+160,W,tf,scout_sword,Rune Slices Served,Three-Rune Blade kills,,,,
+161,W,tf,shahanshah,Shahaha UR Dead,Shahanshah kills,,,,
+162,W,tf,soda_popper,Souls Popped,Soda Popper kills,,,,
+163,W,tf,solemn_vow,Busts Busted,Solemn Vow kills,,,78482,2
+164,W,tf,the_maul,Men Mauled,Maul kills,,,,
+165,W,tf,the_winger,Warriors Winged,Winger kills,,,3288,1
+166,W,tf,tomislav,Tomis Tapped,Tomislav kills,,,71017,39
+167,W,tf,warfan,Fans Made,Fan O'War kills,,,,
+168,W,tf,big_earner,Suckers Stuck,Big Earner kills,,,83202,8
+169,W,tf,iron_bomber,Bombs Ironed,Iron Bomber kills,,,223,44
+170,W,tf,splendid_screen,Full Speed Ahead,Splendid Screen kills,,,,
+171,W,tf,taunt_soldier_lumbricus,Hallelujah!,Kamikaze (Lumbricus Lid) kills,,,,
+172,W,tf,nessieclub,Hole in One,Nessie's Nine Iron kills,,,,
+173,W,tf,mailbox,Mail's Here,Postal Pummeler kills,,,223,3
+174,O,tf,scout_extinguish,Milk - does a body good,extinguishes with Mad Milk,,,223,3
+175,W,tf,cow_mangler,Cows Mangled,Cow Mangler 5000 kills,,,223,4
+176,W,tf,righteous_bison,Bisons Blasted,Righteous Bison kills,,,201,5
+177,W,tf,tf_projectile_energy_ball,"Save A Cow, Eat mor Chikin",Deflected Cow Mangler Shot kills,,,,
+178,W,tf,machina,Problems Solved,Machina kills,,,,
+179,W,tf,diamondback,Souls Rattled,Diamondback kills,,,70988,1
+180,W,tf,widowmaker,Widows Made,Widowmaker kills,,,,
+181,W,tf,short_circuit,Circuits Shorted,Short Circuit kills,,,,
+182,W,tf,quake_rl,Boots Quaked,Original kills,,,10345,50
+183,W,tf,scotland_shard,Hands Shook,Scottish Handshake kills,,,223,4
+184,W,tf,nonnonviolent_protest,Signed Petitioners,Conscientious Objector kills,,,74104,1
+185,W,tf,deflect_flare_detonator,Reflected Detonation,Defected Flare (Detonator) kills,,,,
+186,W,tf,deflect_huntsman_flyingburn,Reflected Burn,Defected Huntsman Burning Arrow kills,,,,
+215,W,tf,quickiebomb_launcher,Quick Bombs,Quickiebomb Launcher kills,,,223,53
+188,O,tf,player_penetration,In and Out,players penetrated,,,,
+189,O,tf,player_builtobject_obj_teleporter,Proceed to android hell,teleporters built,,,78482,48
+190,O,tf,death_sawblade,Blades of Glory,deaths to a sawblade,,,,
+191,O,tf,killedobject_obj_attachment_sapper,Sap This!,sappers removed,,,78482,17
+192,O,tf,killedobject_obj_teleporter,Take a walk!,teleporters killed,,,78482,18
+193,W,tf,eureka_effect,Eureka!,Eureka Effect kills,,,78412,1
+194,W,tf,holiday_punch,The Gift of Punch,Holiday Punch kills,,,27950,1
+195,W,tf,manmelter,Melted Men,Manmelter kills,,,562,3
+196,W,tf,phlogistinator,Phlogged,Phlogistinator kills,,,223,28
+197,W,tf,pomson,Convenient Radiation,Pomson 6000 kills,,,78482,3
+198,W,tf,spy_cicle,Cold as ice,Spy-cicle kills,,,,
+199,W,tf,thirddegree,Ooooh burn!,Third Degree kills,,,562,1
+200,W,tf,wrap_assassin,Wrapping Machine,Wrap Assassin kills,,,25413,2
+201,W,tf,pep_pistol,Lookin Good,Pretty Boy's Pocket Pistol kills,,,9434,2
+202,W,tf,pep_brawlerblaster,Baby Face,Baby Face's Blaster kills,,,3288,8
+203,W,tf,dumpster_device,Don't Beg,Beggar's Bazooka kills,,,223,4
+204,W,tf,pro_smg,Cleaning Time,The Cleaner's Carbine kills,,,9434,2
+205,W,tf,pro_rifle,Making Heat,The Hitman's Heatmaker kills,,,12279,22
+206,W,tf,rainblower,The Rainman,The Rainblower kills,,,,
+207,W,tf,lollichop,Free Candy,The Lollichop kills,,,,
+208,W,tf,scorch_shot,Scorcher,The Scorch Shot kills,,,52846,2
+209,W,tf,unique_pickaxe_escape,The Great Escape,The Escape Plan kills,,,,
+239,O,tf,healing_points,Healer,points from healing,,,2,99
+238,O,tf,banana,Pootassium,Second Bananas Eaten,,,10345,5
+237,P,tf,backstab,Backstabber,backstabs,,,52846,14
+234,W,tf,annihilator,Electrocutioner,neon annihilator kills,,,,
+246,W,tf,guillotine,Cleaver Thrower,guillotine kills,,,3288,1
+240,O,tf,kritz,Kritzkrieger,kritzkriegs,,,2,5
+244,O,tf,mvp3,Third Valuable Player,wins as Third Valuable Player,,,2,4
+233,W,tf,gas_blast,Asses Gassed,Gas Blast kills,,,,
+236,P,tf,gas_attack,Gasses Thrown,gasses,,,78412,12
+243,O,tf,mvp2,Second Valuable Player,wins as Second Valuable Player,,,223,4
+235,V,tf,gas_attack,I got gassed,times a gas victim,,,9434,4
+242,O,tf,vaccinator,Vacinator,Vaccinations,,,12279,16
+210,W,tf,panic_attack,Panic Attack,Panic Attack kills,,,2,4
+211,W,tf,dragons_fury,Dragon's afterburn,Dragon's Fury Afterburn kills,,,562,8
+216,W,tf,dragons_fury_bonus,Dragon's Fury,Dragon's Fury kills,,,562,4
+217,W,tf,rocketpack_stomp,Thermal Thruster Stomp,Thermal Thruster Stomp kills,,,,
+218,W,tf,hot_hand,How can she slap?,Hot hand kills,,,,
+219,W,tf,unarmed_combat,Armed robbery,unarmed combat kills,,,,
+220,W,tf,saxxy,Saxxy,Saxxy kills,,,,
+221,W,tf,necro_smasher,Dead guys killed,Necro Smasher kills,,,223,2
+222,W,tf,freedom_staff,Freedom taken,Freedom Staff kills,,,,
+223,W,tf,voodoo_pin,Wanga Prick,Wanga Prick kills,,,,
+224,W,tf,apocofists,Apoco Fists,Apoco Fists kills,,,,
+225,W,tf,memory_maker,Memories Made,Memory Maker kills,,,,
+226,W,tf,ham_shank,Hams Shanked,Ham Shank kills,,,3288,1
+227,W,tf,golden_fryingpan,The most expensive kill,Golden Frying Pan kills,,,,
+228,W,tf,crossing_guard,Guards Crossed,Crossing Guard kills,,,,
+229,W,tf,the_capper,C.A.P.P.E.R.,C.A.P.P.E.R kills,,,,
+230,W,tf,shooting_star,Stars Shot,Long range pew pew kills,,,,
+231,W,tf,prinny_machete,Prinny Machete,Prinny Machete kills,,,71017,1
+232,W,tf,worldspawn,Sharpened Volcano Fragment Explosion,Melee explosion kills,,,,
+245,P,tf,kill assist,Assistance,kill assists,,,223,94
+241,O,tf,quickfix,Quick-Fixer,Quick-Fixes,,,72861,8
+247,O,tf,kill_assist_medic,Medic Assistance,assists as Medic,,,2,80
+212,W,tf,back_scatter,Back Shot,Back Scatter kills,,,562,4
+214,W,tf,the_classic,A classic,Classic kills,,,67668,28
+213,W,tf,tide_turner,Tides Turned,Tide Turner kills,,,,
+248,W,tf,long_heatmaker,Huo-long Heater,Huo-long Heater kills,,,256,27
+982,O,tf,vita_saw_medic,Vita-saw Doctor,Vita-saw heals given to patients,,,225,79
+981,O,tf,vita_saw_patient,Vita-saw Addict,Vita-saw heal hits taken,,,9434,72
+980,O,tf,got_injected,Ω Injection addict,Injections gotten,,,,
+978,O,tf,injector_used,Ω Injector,Injections given,,,,
+979,O,tf,sapper_thrown,Mix-tape Dropper,Sappers thrown,,,70739,2
+983,W,tf,fatscout,Ω Fatscout Scattergun,Fatscout Scattergun kills,,,,
+984,W,tf,fatscout-bat,Ω Fatscout Bat,Fatscout Bat kills,,,,
+992,W,tf,quickdraw,Ω Quickdraw,Quickdraw kills,,,,
+993,W,tf,brick,Ω Bloody Brick,Bloody Brick kills,,,,
+994,W,tf,bolshevik_bomber,Ω Bolshevik Bomber,Bolshevik Bomber kills,,,,
+989,W,tf,gamma_gazer,Ω Gamma Gazer,Gamma Gazer kills,,,,
+987,W,tf,thumper,Ω Thumper,Thumper kills,,,,
+988,W,tf,hypodermic_injector,Ω Hypodermic Injector,Hypodermic Injector kills,,,,
+985,O,tf,vita_saw_extinguish,Vita-saw fire fighter,Vita-saw extinguish,,,225,10
+986,W,tf,crate_smasher,Ω Crate Smasher,Crate Smasher kills,,,,
+995,W,tf,panwrench,Ω Pan Wrench,Pan Wrench kills,,,,
+991,W,tf,wasp,Ω W.A.S.P. Launcher,W.A.S.P. Launcher kills,,,,
+990,W,tf,carved_cutter,Ω Carved Cutter,Carved Cutter kills,,,,
+996,W,tf,panknife,Ω Pan Knife,Pan Knife kills,,,,

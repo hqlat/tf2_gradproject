@@ -1,0 +1,213 @@
+"weaponId","game","code","name","modifier","kills","headshots"
+1,tf,tf_projectile_rocket,Rocket Launcher,1.0,212642,0
+2,tf,sniperrifle,Sniper Rifle,1.0,128749,89785
+3,tf,minigun,Minigun (Sasha),1.0,104502,0
+4,tf,obj_sentrygun,Sentry Gun (Level 1),1.0,33650,0
+5,tf,knife,Knife,1.0,76097,0
+6,tf,scattergun,Scatter Gun,1.0,212233,0
+7,tf,tf_projectile_pipe,Grenade Launcher,1.0,73136,0
+8,tf,flamethrower,Flamethrower,1.0,128297,0
+9,tf,tf_projectile_pipe_remote,Stickybomb Launcher,1.0,92101,0
+10,tf,shotgun_primary,Engy Shotgun,1.0,47568,0
+11,tf,smg,Submachine Gun,1.0,10247,0
+12,tf,shotgun_soldier,Soldier Shotgun,1.0,23588,0
+13,tf,syringegun_medic,Syringe Gun,1.0,8724,0
+14,tf,revolver,Revolver,1.0,16499,0
+15,tf,samrevolver,Big Kill,1.0,614,0
+16,tf,shotgun_pyro,Pyro Shotgun,1.0,18304,0
+17,tf,world,World,1.0,96033,8
+18,tf,bat,Bat,1.0,1951,0
+19,tf,wrench,Wrench,1.0,2875,0
+20,tf,wrench_golden,Golden Wrench,1.0,0,0
+21,tf,bonesaw,Bone Saw,1.0,3457,0
+22,tf,shotgun_hwg,Heavy Shotgun,1.0,6051,0
+23,tf,club,Kukri,1.0,3851,0
+24,tf,pistol_scout,Scout Pistol,1.0,13110,0
+25,tf,maxgun,Lugermorph,1.0,3104,0
+26,tf,pistol,Engy Pistol,1.0,7248,0
+27,tf,bottle,Bottle,1.0,3624,0
+28,tf,shovel,Shovel,1.0,1704,0
+29,tf,fireaxe,Fire Axe,1.0,910,0
+30,tf,fists,Fists,1.0,2073,0
+31,tf,axtinguisher,Axtinguisher,1.0,5687,0
+32,tf,backburner,Backburner,1.0,50615,0
+33,tf,blutsauger,Blutsauger,1.0,9549,0
+34,tf,deflect_flare,Deflected Flare,1.0,56,0
+35,tf,deflect_promode,Deflected Grenade,1.0,2344,0
+36,tf,deflect_rocket,Deflected Rocket,1.0,11292,0
+37,tf,deflect_sticky,Deflected Sticky,1.0,29,0
+38,tf,deflect_arrow,Deflected Arrow,1.0,458,84
+39,tf,flaregun,Flaregun,1.0,17391,0
+40,tf,natascha,Minigun (Natascha),1.0,64548,0
+41,tf,gloves,K.G.B.,1.0,4611,0
+42,tf,taunt_heavy,Showdown,1.0,2085,0
+43,tf,taunt_pyro,Hadouken,1.0,623,0
+44,tf,ubersaw,Ubersaw,1.0,13102,0
+45,tf,taunt_scout,Home Run,1.0,398,0
+46,tf,sandman,The Sandman,1.0,1882,0
+47,tf,obj_sentrygun2,Sentry Gun (Level 2),1.0,28656,0
+48,tf,obj_sentrygun3,Sentry Gun (Level 3),1.0,63088,0
+49,tf,taunt_sniper,Skewer,1.0,1050,0
+50,tf,taunt_spy,Fencing,1.0,432,0
+51,tf,tf_projectile_arrow,Huntsman,1.0,63509,36029
+52,tf,ambassador,Ambassador,1.0,32865,12755
+53,tf,tf_pumpkin_bomb,Pumpkin Bomb,1.0,230,0
+54,tf,force_a_nature,Force-A-Nature,1.0,21580,0
+55,tf,tf_projectile_arrow_fire,Huntsman (Fire arrow),1.0,1156,0
+56,tf,telefrag,Telefrag,1.0,650,0
+57,tf,rocketlauncher_directhit,Direct Hit,1.0,42666,0
+58,tf,unique_pickaxe,Equalizer,1.0,2085,0
+59,tf,sword,Eyelander,1.0,41064,0
+60,tf,sticky_resistance,Scottish Resistance,1.0,7133,0
+61,tf,taunt_demoman,Decapitation,1.0,608,0
+62,tf,taunt_soldier,Kamikaze,1.0,622,0
+63,tf,demoshield,Chargin' Targe,1.0,2051,0
+64,tf,ball,Baseball,1.0,1829,0
+65,tf,taunt_medic,Spinal Tap,1.0,502,0
+66,tf,paintrain,The Pain Train,1.0,1076,0
+67,tf,sledgehammer,The Homewrecker,1.0,640,0
+68,tf,tribalkukri,Tribalman's Shiv,1.0,1235,0
+69,tf,battleaxe,Scotsman's Skullcutter,1.0,9050,0
+70,tf,frontier_justice,Frontier Justice,1.0,14774,0
+71,tf,obj_minisentry,Sentry Gun (Mini),1.0,44686,0
+72,tf,robot_arm,Gunslinger,1.0,5896,0
+73,tf,robot_arm_combo_kill,Gunslinger Combo,1.0,281,0
+74,tf,bleed_kill,Bleed Kill,1.0,9372,0
+75,tf,robot_arm_blender_kill,Organ Grinder,1.0,247,0
+76,tf,southern_hospitality,Southern Hospitality,1.0,1633,0
+77,tf,taunt_guitar_kill,Dischord,1.0,125,0
+78,tf,wrangler_kill,Wrangler,1.0,3765,0
+79,tf,battleneedle,The Vita-Saw,1.0,4601,0
+80,tf,powerjack,The Powerjack,1.0,2128,0
+81,tf,degreaser,The Degreaser,1.0,60642,0
+82,tf,shortstop,The Shortstop,1.0,26944,0
+83,tf,holymackerel,The Holy Mackerel,1.0,4072,0
+84,tf,letranger,L'Etranger,1.0,8878,0
+85,tf,eternal_reward,Your Eternal Reward,1.0,24084,0
+86,tf,fryingpan,Frying Pan,1.0,14619,0
+87,tf,bushwacka,The Bushwacka,1.0,7200,0
+88,tf,gloves_running_urgently,Gloves of Running Urgently,1.0,2876,0
+89,tf,blackbox,The Black Box,1.0,43592,0
+90,tf,sydney_sleeper,The Sydney Sleeper,1.0,13801,514
+91,tf,headtaker,Horseless Headless Horsemann's Headtaker,1.0,5182,0
+92,tf,claidheamohmor,The Claidheamohmor,1.0,9712,0
+93,tf,back_scratcher,The Back Scratcher,1.0,1391,0
+94,tf,boston_basher,The Boston Basher,1.0,867,0
+95,tf,steel_fists,The Fists of Steel,1.0,1238,0
+96,tf,amputator,The Amputator,1.0,1728,0
+97,tf,crusaders_crossbow,The Crusader's Crossbow,1.0,12581,0
+98,tf,ullapool_caber,The Ullapool Caber,1.0,7669,0
+99,tf,ullapool_caber_explosion,The Ullapool Caber BOOM,1.0,7140,0
+100,tf,loch_n_load,The Loch-n-Load,1.0,10811,0
+101,tf,brass_beast,The Brass Beast,1.0,51640,0
+102,tf,warrior_spirit,The Warrior's Spirit,1.0,7515,0
+103,tf,candy_cane,The Candy Cane,1.0,505,0
+104,tf,wrench_jag,The Jag,1.0,2839,0
+105,tf,iron_curtain,The Iron Curtain,1.0,21301,0
+106,tf,atomizer,Atomizer,1.0,1537,0
+107,tf,bazaar_bargain,Bazaar Bargain,1.0,16038,11820
+108,tf,demokatana,Half-Zatoichi,1.0,17615,0
+109,tf,detonator,Detonator,1.0,6616,0
+110,tf,disciplinary_action,Disciplinary Action,1.0,1482,0
+111,tf,enforcer,Enforcer,1.0,2685,0
+112,tf,eviction_notice,Eviction Notice,1.0,490,0
+113,tf,family_business,Family Business,1.0,6437,0
+114,tf,kunai,Conniver's Kunai,1.0,58641,0
+115,tf,liberty_launcher,Liberty Launcher,1.0,37496,0
+116,tf,mantreads,Mantreads,1.0,899,0
+117,tf,market_gardener,Market Gardener,1.0,14688,0
+118,tf,persian_persuader,Persian Persuader,1.0,8691,0
+119,tf,proto_syringe,Overdose,1.0,2641,0
+120,tf,reserve_shooter,Reserve Shooter,1.0,5904,0
+121,tf,scout_sword,Three-Rune Blade,1.0,290,0
+122,tf,shahanshah,Shahanshah,1.0,2889,0
+123,tf,soda_popper,Soda Popper,1.0,10875,0
+124,tf,solemn_vow,Solemn Vow,1.0,1654,0
+125,tf,the_maul,Maul,1.0,65,0
+126,tf,the_winger,Winger,1.0,3173,0
+127,tf,tomislav,Tomislav,1.0,97583,0
+128,tf,warfan,Fan O'War,1.0,1800,0
+129,tf,big_earner,Big Earner,1.0,24135,0
+130,tf,saxxy,Saxxy,1.0,0,0
+131,tf,splendid_screen,Splendid Screen,1.0,2203,0
+132,tf,taunt_soldier_lumbricus,Kamikaze (Lumbricus Lid),1.0,10,0
+133,tf,nessieclub,Nessie's Nine Iron,1.0,6820,0
+134,tf,mailbox,Postal Pummeler,1.0,875,0
+135,tf,lava_axe,Sharpened Volcano Fragment,1.0,1948,0
+136,tf,lava_bat,Sun-on-a-Stick,1.0,443,0
+137,tf,cow_mangler,Cow Mangler 5000,1.0,22849,0
+138,tf,righteous_bison,Righteous Bison,1.0,3849,0
+139,tf,tf_projectile_energy_ball,Deflected Cow Mangler Shot,1.0,581,0
+140,tf,machina,Machina,1.0,18357,11185
+141,tf,diamondback,The Diamondback,1.0,4870,0
+142,tf,widowmaker,The Widowmaker,1.0,16321,0
+143,tf,short_circuit,The Short Circuit,1.0,148,0
+144,tf,quake_rl,Original,1.0,88173,0
+145,tf,scotland_shard,Scottish Handshake,1.0,2208,0
+146,tf,nonnonviolent_protest,Conscientious Objector,1.0,4832,0
+147,tf,deflect_flare_detonator,Deflected Flare (Detonator),1.0,0,0
+148,tf,deflect_huntsman_flyingburn,Deflect Huntsman Burning Arrow,1.0,14,4
+149,tf,unarmed_combat,Unarmed Combat,1.0,164,0
+150,tf,eureka_effect,Eureka Effect,1.0,1072,0
+151,tf,holiday_punch,Holiday Punch,1.0,1516,0
+152,tf,manmelter,Manmelter,1.0,3059,0
+153,tf,phlogistinator,Phlogistinator,1.0,41818,0
+154,tf,pomson,Pomson 6000,1.0,2918,0
+155,tf,spy_cicle,Spy-cicle,1.0,24431,0
+156,tf,thirddegree,Third Degree,1.0,590,0
+157,tf,wrap_assassin,Wrap Assassin,1.0,452,0
+158,tf,pep_pistol,Pretty Boy's Pocket Pistol ,1.0,4759,0
+159,tf,pep_brawlerblaster,Baby Face's Blaster,1.0,44266,0
+160,tf,dumpster_device,Beggar's Bazooka,1.0,19681,0
+161,tf,pro_smg,The Cleaner's Carbine,1.0,3683,0
+162,tf,pro_rifle,The Hitman's Heatmaker,1.0,9091,7277
+163,tf,rainblower,The Rainblower,1.0,6100,0
+164,tf,lollichop,The Lollichop,1.0,231,0
+165,tf,scorch_shot,The Scorch Shot,1.0,11314,0
+166,tf,unique_pickaxe_escape,The Escape Plan,1.0,1559,0
+167,tf,necro_smasher,The Necro Smasher,1.0,3915,0
+168,tf,voodoo_pin,Wanga Prick,1.0,3071,0
+169,tf,apocofists,Apoco-Fists,1.0,517,0
+170,tf,memory_maker,Memory Maker,1.0,1,0
+171,tf,ham_shank,Ham Shank,1.0,2486,0
+172,tf,golden_fryingpan,Golden Frying Pan,1.0,220,0
+173,tf,crossing_guard,Crossing Guard,1.0,192,0
+174,tf,the_capper,The C.A.P.P.E.R.,1.0,2539,0
+175,tf,shooting_star,Shooting Star,1.0,6234,3881
+177,tf,prinny_machete,Prinny Machete,1.0,2104,0
+178,tf,rocket_jump_kill,Mantread stomp,1.0,0,0
+179,tf,rocketpack_stomp,Thermal Thruster Stomp,1.0,112,0
+180,tf,hot_hand,Hot Hand,1.0,2182,0
+181,tf,quickiebomb_launcher,The Quickebomb Launcher,1.0,13223,0
+182,tf,annihilator,The Neon Annihilator,1.0,2215,0
+183,tf,long_heatmaker,The Huo-long Heater,1.0,28761,0
+184,tf,guillotine,The Flying Guillotine,1.0,2683,0
+185,tf,awper_hand,The Awper Hand,1.0,22039,15593
+186,tf,loose_cannon,The Loose Cannon (explosion),1.0,17935,0
+187,tf,loose_cannon_impact,The Loose Cannon (impact),1.0,5630,0
+188,tf,panic_attack,Panic Attack,1.0,40309,0
+189,tf,rescue_ranger,The Rescue Ranger,1.0,3856,0
+190,tf,back_scatter,The Back Scatter,1.0,16383,0
+191,tf,airstrike,The Airstrike,1.0,14221,0
+192,tf,tide_turner,The Tide Turner,1.0,1825,0
+193,tf,the_classic,The Classic,1.0,14779,5534
+194,tf,ai_flamethrower,The Nostromo Napalmer,1.0,11022,0
+195,tf,iron_bomber,The Iron Bomber,1.0,94870,0
+197,tf,dragons_fury_bonus,The Dragon's Fury Bonus,1.0,28411,0
+198,tf,dragons_fury,The Dragon's Fury,1.0,21102,0
+199,tf,worldspawn,Sharpened Volcano Fragment Explosion,1.0,4390,0
+200,tf,gas_blast,Gas Blast,1.0,77,0
+201,tf,armageddon,Rainblower Taunt,1.0,127,0
+967,tf,fatscout,Fat Scout Scattergun,1.0,441,0
+968,tf,crate_smasher,Crate Smasher,1.0,46,0
+969,tf,thumper,Thumper,1.0,96,0
+970,tf,hypodermic_injector,Hypodermic Injector,1.0,37,0
+971,tf,gamma_gazer,Gamma Gazer,1.0,2,0
+972,tf,carved_cutter,Carved Cutter,1.0,68,0
+973,tf,wasp,W.A.S.P. launcher,1.0,342,0
+974,tf,quickdraw,Quickdraw,1.0,39,0
+975,tf,brick,Brick,1.0,8,0
+976,tf,fatscout-bat,Fat Scout Bat,1.0,5,0
+977,tf,bolshevik_bomber,Bolshevik Bomber,1.0,7,0
+978,tf,panwrench,Pan Wrench,1.0,6,0
+979,tf,panknife,Pan Knife,1.0,12,0

@@ -1,0 +1,741 @@
+"id","game","code","reward_player","reward_team","team","description","for_PlayerActions","for_PlayerPlayerActions","for_TeamActions","for_WorldActions","count"
+4,tf,flagevent_dropped_death,0,0,"",Dropped the flag (on death),"1","0","0","0",1027
+6,tf,killedobject_obj_teleporter,2,0,"",Destroyed a teleporter,"1","0","0","0",121994
+7,tf,killedobject_obj_dispenser,2,0,"",Destroyed a dispenser,"1","0","0","0",123080
+8,tf,killedobject_obj_sentrygun,2,0,"",Destroyed a sentry gun,"1","0","0","0",229022
+9,tf,killedobject_obj_sentrygun_mini,2,0,"",Destroyed a mini sentry gun,"1","0","0","0",226696
+10,tf,player_builtobject_obj_teleporter,0,0,"",Built a teleporter,"1","0","0","0",275490
+11,tf,player_builtobject_obj_dispenser,0,0,"",Built a dispenser,"1","0","0","0",142581
+12,tf,player_builtobject_obj_sentrygun,0,0,"",Built a sentry gun,"1","0","0","0",191029
+13,tf,builtobject_obj_sentrygun_mini,0,0,"",Built a mini sentry gun,"1","0","0","0",215521
+14,tf,captureblocked,2,0,"",Capture Blocked,"1","0","0","0",285485
+15,tf,pointcaptured,5,20,"",Point Captured,"1","0","1","0",427888
+16,tf,kill assist,1,0,"",Kill Assist,"0","1","0","0",1513029
+17,tf,player_builtobject_obj_attachment_sapper,0,0,"",Attached a Sapper,"1","0","0","0",162307
+18,tf,killedobject_obj_attachment_sapper,0,0,"",Removed a Sapper,"1","0","0","0",55200
+20,tf,domination,0,0,"",Domination,"0","1","0","0",179700
+21,tf,revenge,0,0,"",Revenge,"0","1","0","0",73744
+22,tf,Round_Win,10,50,"",Round Win,"1","0","1","0",45889
+23,tf,Mini_Round_Win,10,5,"",Mini-Round Win,"1","0","1","0",19050
+24,tf,object_detonated_obj_sentrygun,-2,0,"",Disassembled a sentry gun,"1","0","0","0",45723
+25,tf,object_detonated_obj_sentrygun_mini,-2,0,"",Disassembled a mini sentry gun,"1","0","0","0",0
+26,tf,object_detonated_obj_dispenser,-2,0,"",Disassembled a dispenser,"1","0","0","0",13045
+27,tf,object_detonated_obj_teleporter,-2,0,"",Disassembled a teleporter,"1","0","0","0",69959
+28,tf,object_detonated_obj_sapper,0,0,"",Console-killed sapper,"1","0","0","0",0
+29,tf,backstab,5,0,"",Backstab Kill,"0","1","0","0",206531
+30,tf,headshot,5,0,"",Headshot Kill,"1","0","0","0",194191
+31,tf,kill_assist_medic,2,0,"",Kill Assist - Medic,"1","0","0","0",673006
+32,tf,kill_streak_2,1,0,"",Double Kill (2 kills),"1","0","0","0",367879
+33,tf,kill_streak_3,1,0,"",Triple Kill (3 kills),"1","0","0","0",172554
+34,tf,kill_streak_4,1,0,"",Domination (4 kills),"1","0","0","0",88811
+35,tf,kill_streak_5,1,0,"",Rampage (5 kills),"1","0","0","0",48687
+36,tf,kill_streak_6,1,0,"",Mega Kill (6 kills),"1","0","0","0",27959
+37,tf,kill_streak_7,1,0,"",Ownage (7 kills),"1","0","0","0",16601
+38,tf,kill_streak_8,1,0,"",Ultra Kill (8 kills),"1","0","0","0",10487
+40,tf,kill_streak_10,1,0,"",Monster Kill (10 kills),"1","0","0","0",4326
+41,tf,kill_streak_11,1,0,"",Unstoppable (11 kills),"1","0","0","0",3027
+42,tf,kill_streak_12,1,0,"",God Like (12+ kills),"1","0","0","0",6989
+43,tf,sandvich,0,0,"",Ate a Sandvich,"1","0","0","0",36120
+44,tf,crit_kill,0,0,"",Critical Kill,"1","0","0","0",588636
+46,tf,hit_by_train,0,0,"",LOL TRAIN'D,"1","0","0","0",7
+47,tf,first_blood,1,0,"",First Blood,"1","0","0","0",39
+48,tf,steal_sandvich,5,0,"",Steal Sandvich,"0","1","0","0",7143
+49,tf,stun,0,0,"",Stun,"0","1","0","0",252423
+50,tf,drowned,0,0,"",Drowned,"1","0","0","0",101
+51,tf,pyro_extinguish,1,0,"",Extinguished Teammate (Pyro),"1","0","0","0",107597
+53,tf,medic_extinguish,1,0,"",Extinguished Teammate (Medic),"1","0","0","0",218573
+54,tf,engineer_extinguish,1,0,"",Extinguished Teammate (Engineer),"1","0","0","0",35165
+70,tf,air2airshot_rocket,0,0,"",Airshot Rocket (Airborne),"1","0","0","0",29804
+57,tf,killed_charged_medic,5,0,"",Killed charged medic,"1","0","0","0",23674
+58,tf,death_sawblade,0,0,"",LOL SAW'D,"1","0","0","0",0
+59,tf,jarate,0,0,"",Jarated player,"0","1","0","0",88663
+61,tf,mvp1,30,0,"",MVP #1,"1","0","0","0",46713
+62,tf,mvp2,20,0,"",MVP #2,"1","0","0","0",37570
+63,tf,mvp3,10,0,"",MVP #3,"1","0","0","0",32354
+64,tf,defended_medic,3,0,"",Defended a Medic,"1","0","0","0",95792
+119,css,Escaped_As_VIP,0,10,CT,VIP escaped,"0","0","1","0",0
+66,tf,escort_score,2,0,"",Cart Escort,"1","0","0","0",366208
+67,tf,airshot_rocket,0,0,"",Airshot Rocket,"1","0","0","0",630515
+68,tf,airshot_headshot,7,0,"",Airshot Headshot,"1","0","0","0",15891
+72,tf,airblast_player,0,0,"",Airblast Player,"0","1","0","0",691963
+73,tf,airshot_arrow,0,0,"",Airshot Arrow,"1","0","0","0",29921
+74,tf,airshot_flare,0,0,"",Airshot Flare,"1","0","0","0",57969
+75,tf,airshot_pipebomb,0,0,"",Airshot Pipebomb,"1","0","0","0",286577
+76,tf,airshot_sticky,0,0,"",Airshot Sticky,"1","0","0","0",186338
+77,tf,airshot_stun,0,0,"",Airshot Stun,"1","0","0","0",89255
+85,tf,rocket_failjump,0,0,"",Rocket Jump Failure,"1","0","0","0",0
+86,tf,rocket_jump,0,0,"",Rocket Jump,"1","0","0","0",1509512
+87,tf,rocket_jump_kill,0,0,"",Rocket Jump Kill,"1","0","0","0",29879
+88,tf,rocket_jumper_kill,0,0,"",Rocket Jumper Kill,"1","0","0","0",0
+89,tf,sandvich_healself,0,0,"",Ate Sandvich for Health,"1","0","0","0",25883
+90,tf,sticky_failjump,0,0,"",Sticky Jump Failure,"1","0","0","0",0
+91,tf,sticky_jump,0,0,"",Sticky Jump,"1","0","0","0",319584
+93,tf,sticky_jumper_kill,0,0,"",Sticky Jumper Kill,"1","0","0","0",0
+118,css,Bomb_Defused,0,5,CT,Counter-Terrorists defused the bomb,"0","0","1","0",0
+95,tf,teleport_self_again,0,0,"",Teleported Self Again (Past 10 Seconds),"1","0","0","0",806
+97,tf,teleport_used_again,0,0,"",Teleporter Used Again (Past 10 Seconds) (Not Own),"1","0","0","0",257
+98,tf,dalokohs,0,0,"",Ate a Dalokohs Bar,"1","0","0","0",52506
+99,tf,dalokohs_healself,0,0,"",Ate a Dalokohs Bar for Health,"1","0","0","0",34963
+100,tf,steak,0,0,"",Ate a Buffalo Steak Sandvich,"1","0","0","0",38245
+104,css,Begin_Bomb_Defuse_Without_Kit,0,0,CT,Start Defusing the Bomb Without a Defuse Kit,"1","0","0","0",0
+105,css,Begin_Bomb_Defuse_With_Kit,0,0,CT,Start Defusing the Bomb With a Defuse Kit,"1","0","0","0",0
+106,css,Planted_The_Bomb,10,2,TERRORIST,Plant the Bomb,"1","0","0","0",0
+535,sgtls,Tau'ri_Win,5,0,"",Tau'ri Won Round,"0","0","1","0",0
+534,sgtls,Goa'uld_Win,5,0,"",Goa'uld Won Round,"0","0","1","0",0
+533,sgtls,kill_streak_12,11,0,"",God Like (12+ kills),"1","0","0","0",0
+532,sgtls,kill_streak_11,10,0,"",Unstoppable (11 kills),"1","0","0","0",0
+531,sgtls,kill_streak_10,9,0,"",Monster Kill (10 kills),"1","0","0","0",0
+530,sgtls,kill_streak_9,8,0,"",Killing Spree (9 kills),"1","0","0","0",0
+529,sgtls,kill_streak_8,7,0,"",Ultra Kill (8 kills),"1","0","0","0",0
+528,sgtls,kill_streak_7,6,0,"",Ownage (7 kills),"1","0","0","0",0
+527,sgtls,kill_streak_6,5,0,"",Mega Kill (6 kills),"1","0","0","0",0
+526,sgtls,kill_streak_5,4,0,"",Rampage (5 kills),"1","0","0","0",0
+525,sgtls,kill_streak_4,3,0,"",Domination (4 kills),"1","0","0","0",0
+524,sgtls,kill_streak_3,2,0,"",Triple Kill (3 kills),"1","0","0","0",0
+523,sgtls,kill_streak_2,1,0,"",Double Kill (2 kills),"1","0","0","0",0
+522,bg2,kill_streak_12,11,0,"",God Like (12+ kills),"1","0","0","0",0
+521,bg2,kill_streak_11,10,0,"",Unstoppable (11 kills),"1","0","0","0",0
+520,bg2,kill_streak_10,9,0,"",Monster Kill (10 kills),"1","0","0","0",0
+519,bg2,kill_streak_9,8,0,"",Killing Spree (9 kills),"1","0","0","0",0
+518,bg2,kill_streak_8,7,0,"",Ultra Kill (8 kills),"1","0","0","0",0
+517,bg2,kill_streak_7,6,0,"",Ownage (7 kills),"1","0","0","0",0
+516,bg2,kill_streak_6,5,0,"",Mega Kill (6 kills),"1","0","0","0",0
+515,bg2,kill_streak_5,4,0,"",Rampage (5 kills),"1","0","0","0",0
+514,bg2,kill_streak_4,3,0,"",Domination (4 kills),"1","0","0","0",0
+513,bg2,kill_streak_3,2,0,"",Triple Kill (3 kills),"1","0","0","0",0
+375,ns,structure_built_offensechamber,1,0,"",Built Offense Chamber,"1","0","0","0",0
+374,ns,structure_destroyed_defensechamber,2,0,"",Destroyed Defense Chamber,"1","0","0","0",0
+373,ns,structure_built_defensechamber,1,0,"",Built Defense Chamber,"1","0","0","0",0
+372,ns,structure_destroyed_team_infportal,2,0,"",Destroyed INF Portal,"1","0","0","0",0
+371,ns,structure_built_team_infportal,1,0,"",Built INF Portal,"1","0","0","0",0
+370,ns,structure_destroyed_turret,2,0,"",Destroyed Turret,"1","0","0","0",0
+369,ns,structure_built_turret,1,0,"",Built Turret,"1","0","0","0",0
+368,ns,structure_destroyed_team_turretfactory,2,0,"",Destroyed Turret Factory,"1","0","0","0",0
+367,ns,structure_built_team_turretfactory,1,0,"",Built Turret Factory,"1","0","0","0",0
+365,ns,structure_built_team_armory,1,0,"",Built Armory,"1","0","0","0",0
+366,ns,structure_destroyed_team_armory,2,0,"",Destroyed Armory,"1","0","0","0",0
+465,l4d2,hunter_punter,0,0,"",Hunter Punter (melee a Hunter mid-jump),"1","0","0","0",0
+464,l4d2,cr0wned,0,0,"",Cr0wned (killed witch with single headshot),"1","0","0","0",0
+463,l4d2,friendly_fire,-3,0,"",Friendly Fire,"1","0","0","0",0
+462,l4d2,vomit,6,0,"",(Boomer) Vomited on Survivor,"0","1","0","0",0
+461,l4d2,pounce,6,0,"",(Hunter) Pounced on Survivor,"0","1","0","0",0
+460,l4d2,startled_witch,-5,0,"",Startled the Witch,"1","0","0","0",0
+459,l4d2,revived_teammate,3,0,"",Revived Teammate,"1","0","0","0",0
+458,l4d2,healed_teammate,5,0,"",Healed Teammate,"1","0","0","0",0
+457,l4d2,rescued_survivor,2,0,"",Rescued Teammate,"1","0","0","0",0
+456,l4d2,spitter_acidbath,5,0,"",Spitter Acid,"1","0","0","0",0
+455,l4d2,bilebomb_tank,5,0,"",Tank Bilebombed,"1","0","0","0",0
+454,l4d2,charger_pummel,5,0,"",Charger Pummeling,"1","0","0","0",0
+453,l4d2,jockey_ride,5,0,"",Going for a ride,"1","0","0","0",0
+364,ns,structure_destroyed_team_advturretfactory,2,0,"",Destroyed Advanced Turret Factory,"1","0","0","0",0
+363,ns,structure_built_team_advturretfactory,1,0,"",Built Advanced Turret Factory,"1","0","0","0",0
+362,ns,structure_destroyed_siegeturret,2,0,"",Destroyed Siege Turret,"1","0","0","0",0
+361,ns,structure_built_siegeturret,1,0,"",Built Siege Turret,"1","0","0","0",0
+360,ns,structure_destroyed_resourcetower,2,0,"",Destroyed Resource Tower,"1","0","0","0",0
+359,ns,structure_built_resourcetower,1,0,"",Built Resource Tower,"1","0","0","0",0
+358,ns,structure_destroyed_phasegate,2,0,"",Destroyed Phasegate,"1","0","0","0",0
+357,ns,structure_built_phasegate,1,0,"",Built Phasegate,"1","0","0","0",0
+356,ns,structure_destroyed_alienresourcetower,2,0,"",Destroyed Alien Resource Tower,"1","0","0","0",0
+355,ns,structure_built_alienresourcetower,1,0,"",Built Alien Resource Tower,"1","0","0","0",0
+354,ns,recycle,-3,0,"",Structures Recycled,"1","0","0","0",0
+353,ns,research_start,1,0,"",Researches Performed,"1","0","0","0",0
+352,ns,structure_destroyed,2,0,"",Structures Destroyed,"1","0","0","0",0
+351,ns,structure_built,1,0,"",Structures Built,"1","0","0","0",0
+350,dod,kill_streak_12,11,0,"",God Like (12+ kills),"1","0","0","0",0
+349,dod,kill_streak_11,10,0,"",Unstoppable (11 kills),"1","0","0","0",0
+348,dod,kill_streak_10,9,0,"",Monster Kill (10 kills),"1","0","0","0",0
+347,dod,kill_streak_9,8,0,"",Killing Spree (9 kills),"1","0","0","0",0
+346,dod,kill_streak_8,7,0,"",Ultra Kill (8 kills),"1","0","0","0",0
+343,dod,kill_streak_5,4,0,"",Rampage (5 kills),"1","0","0","0",0
+344,dod,kill_streak_6,5,0,"",Mega Kill (6 kills),"1","0","0","0",0
+345,dod,kill_streak_7,6,0,"",Ownage (7 kills),"1","0","0","0",0
+413,ns,kill_streak_9,8,0,"",Killing Spree (9 kills),"1","0","0","0",0
+412,ns,kill_streak_8,7,0,"",Ultra Kill (8 kills),"1","0","0","0",0
+411,ns,kill_streak_7,6,0,"",Ownage (7 kills),"1","0","0","0",0
+410,ns,kill_streak_6,5,0,"",Mega Kill (6 kills),"1","0","0","0",0
+409,ns,kill_streak_5,4,0,"",Rampage (5 kills),"1","0","0","0",0
+408,ns,kill_streak_4,3,0,"",Domination (4 kills),"1","0","0","0",0
+407,ns,kill_streak_3,2,0,"",Triple Kill (3 kills),"1","0","0","0",0
+406,ns,kill_streak_2,1,0,"",Double Kill (2 kills),"1","0","0","0",0
+405,ns,research_cancel,-1,0,"",Stopped Researching ,"1","0","0","0",0
+404,ns,structure_built_item_jetpack,1,0,"",Created a Jetpack,"1","0","0","0",0
+403,ns,structure_built_item_health,1,0,"",Created a Healthpack,"1","0","0","0",0
+402,ns,structure_built_item_genericammo,1,0,"",Created Generic Ammo,"1","0","0","0",0
+401,ns,structure_built_item_catalyst,1,0,"",Created a Catalyst,"1","0","0","0",0
+400,ns,structure_built_item_heavyarmour,1,0,"",Created Heavy Armour,"1","0","0","0",0
+399,ns,structure_built_weapon_mine,1,0,"",Created a Mine,"1","0","0","0",0
+398,ns,structure_built_weapon_welder,1,0,"",Created a Welder,"1","0","0","0",0
+128,css,kill_streak_6,5,0,"",Mega Kill (6 kills),"1","0","0","0",0
+127,css,kill_streak_5,4,0,"",Rampage (5 kills),"1","0","0","0",0
+126,css,kill_streak_4,3,0,"",Domination (4 kills),"1","0","0","0",0
+125,css,kill_streak_3,2,0,"",Triple Kill (3 kills),"1","0","0","0",0
+124,css,kill_streak_2,1,0,"",Double Kill (2 kills),"1","0","0","0",0
+123,css,round_mvp,0,0,"",Round MVP,"1","0","0","0",0
+122,css,headshot,1,0,"",Headshot,"1","0","0","0",0
+121,css,Became_VIP,1,0,CT,Become the VIP,"1","0","0","0",0
+45,tf,force_suicide,-2,0,"",Force Suicide,"1","0","0","0",110707
+1,tf,flagevent_defended,1,0,"",Defended the flag,"1","0","0","0",2183
+3,tf,flagevent_dropped,-2,0,"",Dropped the flag (while alive),"1","0","0","0",1701
+103,tf,player_penetration,5,0,"",Player Penetration,"1","0","0","0",670
+94,tf,teleport_again,0,0,"",Teleported Again (Past 10 Seconds),"1","0","0","0",291
+107,css,Defused_The_Bomb,10,0,CT,Defuse the Bomb,"1","0","0","0",0
+108,css,Touched_A_Hostage,0,0,CT,Touch a Hostage,"1","0","0","0",0
+109,css,Rescued_A_Hostage,5,1,CT,Rescue a Hostage,"1","0","0","0",0
+110,css,Killed_A_Hostage,-15,1,CT,Kill a Hostage,"1","0","0","0",0
+111,css,Spawned_With_The_Bomb,2,0,TERRORIST,Spawn with the Bomb,"1","0","0","0",0
+112,css,Got_The_Bomb,2,0,TERRORIST,Pick up the Bomb,"1","0","0","0",0
+113,css,Dropped_The_Bomb,-2,0,TERRORIST,Drop the Bomb,"1","0","0","0",0
+114,css,CTs_Win,0,2,CT,All Terrorists eliminated,"0","0","1","0",0
+115,css,Terrorists_Win,0,2,TERRORIST,All Counter-Terrorists eliminated,"0","0","1","0",0
+116,css,All_Hostages_Rescued,0,10,CT,Counter-Terrorists rescued all the hostages,"0","0","1","0",0
+117,css,Target_Bombed,0,5,TERRORIST,Terrorists bombed the target,"0","0","1","0",0
+564,dystopia,Destroy Transformer,2,0,"",Destroy Transformer,"1","0","0","0",0
+563,dystopia,Destroy the Reactor,2,0,"",Destroy the Reactor,"1","0","0","0",0
+562,dystopia,Destroy the Firewall,2,0,"",Destroy the Firewall,"1","0","0","0",0
+512,bg2,kill_streak_2,1,0,"",Double Kill (2 kills),"1","0","0","0",0
+511,ges,GE_AWARD_MOSTLYHARMLESS,-1,0,"",Mostly Harmless,"1","0","0","0",0
+510,ges,GE_AWARD_NOTAC10,4,0,"",Where's the Armor?,"1","0","0","0",0
+509,ges,GE_AWARD_DISHONORABLE,-10,0,"",Most Dishonorable,"1","0","0","0",0
+508,ges,GE_AWARD_SHORTIN,-1,0,"",Shortest Innings,"1","0","0","0",0
+507,ges,GE_AWARD_LONGIN,1,0,"",Longest Innings,"1","0","0","0",0
+506,ges,GE_AWARD_LEMMING,-1,0,"",Lemming (suicide),"1","0","0","0",0
+505,ges,GE_AWARD_WTA,1,0,"",Where's the Ammo?,"1","0","0","0",0
+504,ges,GE_AWARD_FRANTIC,2,0,"",Most Frantic,"1","0","0","0",0
+503,ges,GE_AWARD_AC10,2,0,"",AC-10 Award,"1","0","0","0",0
+502,ges,GE_AWARD_MARKSMANSHIP,1,0,"",Marksmanship Award,"1","0","0","0",0
+501,ges,GE_AWARD_PROFESSIONAL,10,0,"",Most Professional,"1","0","0","0",0
+500,ges,GE_AWARD_HONORABLE,5,0,"",Most Honorable,"1","0","0","0",0
+499,ges,GE_AWARD_DEADLY,10,0,"",Most Deadly,"1","0","0","0",0
+498,ges,Round_Win_Team,0,3,"",Team Round Win,"0","0","1","0",0
+497,ges,Round_Win,5,0,"",Round Win,"1","0","0","0",0
+496,ges,kill_streak_12,11,0,"",God Like (12+ kills),"1","0","0","0",0
+495,ges,kill_streak_11,10,0,"",Unstoppable (11 kills),"1","0","0","0",0
+494,ges,kill_streak_10,9,0,"",Monster Kill (10 kills),"1","0","0","0",0
+493,ges,kill_streak_9,8,0,"",Killing Spree (9 kills),"1","0","0","0",0
+492,ges,kill_streak_8,7,0,"",Ultra Kill (8 kills),"1","0","0","0",0
+491,ges,kill_streak_7,6,0,"",Ownage (7 kills),"1","0","0","0",0
+490,ges,kill_streak_6,5,0,"",Mega Kill (6 kills),"1","0","0","0",0
+489,ges,kill_streak_5,4,0,"",Rampage (5 kills),"1","0","0","0",0
+488,ges,kill_streak_4,3,0,"",Domination (4 kills),"1","0","0","0",0
+487,ges,kill_streak_3,2,0,"",Triple Kill (3 kills),"1","0","0","0",0
+486,ges,kill_streak_2,1,0,"",Double Kill (2 kills),"1","0","0","0",0
+485,ges,headshot,1,0,"",Headshot Kill,"1","0","0","0",0
+484,fof,headshot,1,0,"",Headshot Kill,"1","0","0","0",0
+483,fof,carrier_protect,5,0,"",Protected the carrier,"1","0","0","0",0
+174,hl2mp,kill_streak_3,2,0,"",Triple Kill (3 kills),"1","0","0","0",0
+173,hl2mp,kill_streak_2,1,0,"",Double Kill (2 kills),"1","0","0","0",0
+172,dods,kill_streak_12,11,0,"",God Like (12+ kills),"1","0","0","0",0
+171,dods,kill_streak_11,10,0,"",Unstoppable (11 kills),"1","0","0","0",0
+170,dods,kill_streak_10,9,0,"",Monster Kill (10 kills),"1","0","0","0",0
+169,dods,kill_streak_9,8,0,"",Killing Spree (9 kills),"1","0","0","0",0
+168,dods,kill_streak_8,7,0,"",Ultra Kill (8 kills),"1","0","0","0",0
+167,dods,kill_streak_7,6,0,"",Ownage (7 kills),"1","0","0","0",0
+166,dods,kill_streak_6,5,0,"",Mega Kill (6 kills),"1","0","0","0",0
+165,dods,kill_streak_5,4,0,"",Rampage (5 kills),"1","0","0","0",0
+164,dods,kill_streak_4,3,0,"",Domination (4 kills),"1","0","0","0",0
+163,dods,kill_streak_3,2,0,"",Triple Kill (3 kills),"1","0","0","0",0
+162,dods,kill_streak_2,1,0,"",Double Kill (2 kills),"1","0","0","0",0
+161,dods,revenge,3,0,"",Revenge,"0","1","0","0",0
+160,dods,domination,5,0,"",Domination,"0","1","0","0",0
+159,dods,round_win,0,5,"",Round Win,"0","0","1","0",0
+158,dods,bomb_plant,6,1,"",Bomb Planted,"1","0","1","0",0
+157,dods,bomb_defuse,6,1,"",Bomb Defused,"1","0","1","0",0
+156,dods,kill_planter,2,0,"",Bomb Planter Killed,"1","0","0","0",0
+155,dods,captured_loc,6,1,"",Area Captured,"1","0","1","0",0
+154,dods,capblock,6,1,"",Capture Blocked,"1","0","1","0",0
+153,hl2ctf,kill_streak_12,11,0,"",God Like (12+ kills),"1","0","0","0",0
+152,hl2ctf,kill_streak_11,10,0,"",Unstoppable (11 kills),"1","0","0","0",0
+151,hl2ctf,kill_streak_10,9,0,"",Monster Kill (10 kills),"1","0","0","0",0
+150,hl2ctf,kill_streak_9,8,0,"",Killing Spree (9 kills),"1","0","0","0",0
+149,hl2ctf,kill_streak_8,7,0,"",Ultra Kill (8 kills),"1","0","0","0",0
+148,hl2ctf,kill_streak_7,6,0,"",Ownage (7 kills),"1","0","0","0",0
+147,hl2ctf,kill_streak_6,5,0,"",Mega Kill (6 kills),"1","0","0","0",0
+146,hl2ctf,kill_streak_5,4,0,"",Rampage (5 kills),"1","0","0","0",0
+145,hl2ctf,kill_streak_4,3,0,"",Domination (4 kills),"1","0","0","0",0
+144,hl2ctf,kill_streak_3,2,0,"",Triple Kill (3 kills),"1","0","0","0",0
+140,hl2ctf,ctf_flag_return,5,0,"",Returned Flag,"1","0","0","0",0
+141,hl2ctf,ctf_flag_stolen,1,0,"",Stole Enemy Flag,"1","0","0","0",0
+142,hl2ctf,ctf_protect_carrier,5,0,"",Protected Flag Carrier,"1","0","0","0",0
+143,hl2ctf,kill_streak_2,1,0,"",Double Kill (2 kills),"1","0","0","0",0
+470,fof,kill_streak_2,1,0,"",Double Kill (2 kills),"1","0","0","0",0
+469,l4d2,killed_all_survivors,0,0,"",Killed all survivors,"1","0","0","0",0
+468,l4d2,no_death_on_tank,0,0,"",No survivors died/incapped from tank,"1","0","0","0",0
+467,l4d2,protect_teammate,0,0,"",Protected Teammate,"1","0","0","0",0
+466,l4d2,tounge_twister,0,0,"",Tounge Twister (kill a Smoker while he is dragging you),"1","0","0","0",0
+272,cstrike,Rescued_A_Hostage,5,1,CT,Rescue a Hostage,"1","0","0","0",0
+271,cstrike,Touched_A_Hostage,2,0,CT,Touch a Hostage,"1","0","0","0",0
+270,cstrike,Defused_The_Bomb,15,0,CT,Defuse the Bomb,"1","0","0","0",0
+269,cstrike,Planted_The_Bomb,15,2,TERRORIST,Plant the Bomb,"1","0","0","0",0
+268,cstrike,Assassinated_The_VIP,10,0,TERRORIST,Assassinate the VIP,"1","0","0","0",0
+267,cstrike,Begin_Bomb_Defuse_With_Kit,0,0,CT,Start Defusing the Bomb With a Defuse Kit,"1","0","0","0",0
+266,cstrike,Begin_Bomb_Defuse_Without_Kit,0,0,CT,Start Defusing the Bomb Without a Defuse Kit,"1","0","0","0",0
+265,aoc,Round_Win,0,2,"",Round Win,"0","0","1","0",0
+264,aoc,headshot,2,0,"",Headshot/Decapitate Kill,"1","0","0","0",0
+263,aoc,kill_streak_12,11,0,"",God Like (12+ kills),"1","0","0","0",0
+262,aoc,kill_streak_11,10,0,"",Unstoppable (11 kills),"1","0","0","0",0
+261,aoc,kill_streak_10,9,0,"",Monster Kill (10 kills),"1","0","0","0",0
+260,aoc,kill_streak_9,8,0,"",Killing Spree (9 kills),"1","0","0","0",0
+259,aoc,kill_streak_8,7,0,"",Ultra Kill (8 kills),"1","0","0","0",0
+258,aoc,kill_streak_7,6,0,"",Ownage (7 kills),"1","0","0","0",0
+257,aoc,kill_streak_6,5,0,"",Mega Kill (6 kills),"1","0","0","0",0
+256,aoc,kill_streak_5,4,0,"",Rampage (5 kills),"1","0","0","0",0
+255,aoc,kill_streak_4,3,0,"",Domination (4 kills),"1","0","0","0",0
+254,aoc,kill_streak_3,2,0,"",Triple Kill (3 kills),"1","0","0","0",0
+253,aoc,kill_streak_2,1,0,"",Double Kill (2 kills),"1","0","0","0",0
+252,zps,headshot,1,0,"",Headshot Kill,"1","0","0","0",0
+251,zps,kill_streak_12,11,0,"",God Like (12+ kills),"1","0","0","0",0
+250,zps,kill_streak_11,10,0,"",Unstoppable (11 kills),"1","0","0","0",0
+249,zps,kill_streak_10,9,0,"",Monster Kill (10 kills),"1","0","0","0",0
+248,zps,kill_streak_9,8,0,"",Killing Spree (9 kills),"1","0","0","0",0
+247,zps,kill_streak_8,7,0,"",Ultra Kill (8 kills),"1","0","0","0",0
+246,zps,kill_streak_7,6,0,"",Ownage (7 kills),"1","0","0","0",0
+245,zps,kill_streak_6,5,0,"",Mega Kill (6 kills),"1","0","0","0",0
+244,zps,kill_streak_5,4,0,"",Rampage (5 kills),"1","0","0","0",0
+243,zps,kill_streak_4,3,0,"",Domination (4 kills),"1","0","0","0",0
+242,zps,kill_streak_3,2,0,"",Triple Kill (3 kills),"1","0","0","0",0
+241,zps,kill_streak_2,1,0,"",Double Kill (2 kills),"1","0","0","0",0
+240,hidden,kill_streak_12,11,0,"",God Like (12+ kills),"1","0","0","0",0
+239,hidden,kill_streak_11,10,0,"",Unstoppable (11 kills),"1","0","0","0",0
+238,hidden,kill_streak_10,9,0,"",Monster Kill (10 kills),"1","0","0","0",0
+237,hidden,kill_streak_9,8,0,"",Killing Spree (9 kills),"1","0","0","0",0
+236,hidden,kill_streak_8,7,0,"",Ultra Kill (8 kills),"1","0","0","0",0
+235,hidden,kill_streak_7,6,0,"",Ownage (7 kills),"1","0","0","0",0
+234,hidden,kill_streak_6,5,0,"",Mega Kill (6 kills),"1","0","0","0",0
+233,hidden,kill_streak_5,4,0,"",Rampage (5 kills),"1","0","0","0",0
+232,hidden,kill_streak_4,3,0,"",Domination (4 kills),"1","0","0","0",0
+231,hidden,kill_streak_3,2,0,"",Triple Kill (3 kills),"1","0","0","0",0
+230,hidden,kill_streak_2,1,0,"",Double Kill (2 kills),"1","0","0","0",0
+229,ff,disguise_lost,1,0,"",Uncovered Enemy,"0","1","0","0",0
+228,ff,flag_thrown,-3,0,"",Flag Thrown,"1","0","0","0",0
+227,ff,flag_dropped,-3,0,"",Flag Dropped,"1","0","0","0",0
+226,ff,flag_capture,3,0,"",Flag Captured,"1","0","0","0",0
+225,ff,flag_touch,3,0,"",Flag Picked Up,"1","0","0","0",0
+224,ff,build_detpack,1,0,"",Placed Detpack,"1","0","0","0",0
+223,ff,mancannon_detonated,-1,0,"",Detonated Jump Pad,"1","0","0","0",0
+222,ff,build_mancannon,1,0,"",Built Jump Pad,"1","0","0","0",0
+221,ff,dispenser_dismantled,-1,0,"",Dispenser Dismantled,"1","0","0","0",0
+220,ff,sentry_dismantled,-1,0,"",Sentry Gun Dismantled,"1","0","0","0",0
+219,ff,sentry_detonated,-1,0,"",Sentry Gun Detonated,"1","0","0","0",0
+218,ff,dispenser_detonated,-1,0,"",Dispenser Detonated,"1","0","0","0",0
+217,ff,build_dispenser,1,0,"",Built Dispenser,"1","0","0","0",0
+216,ff,build_sentrygun,1,0,"",Built Sentry Gun,"1","0","0","0",0
+215,ff,sentrygun_upgraded,1,0,"",Upgraded Sentry Gun,"1","0","0","0",0
+342,dod,kill_streak_4,3,0,"",Domination (4 kills),"1","0","0","0",0
+341,dod,kill_streak_3,2,0,"",Triple Kill (3 kills),"1","0","0","0",0
+340,dod,kill_streak_2,1,0,"",Double Kill (2 kills),"1","0","0","0",0
+339,dod,dod_object_goal,4,0,"",Objectives Achieved,"1","0","0","0",0
+338,dod,dod_capture_area,6,1,"",Areas Captured,"1","0","1","0",0
+337,dod,dod_control_point,6,1,"",Control Points Captured,"1","0","1","0",0
+336,tfc,kill_streak_12,11,0,"",God Like (12+ kills),"1","0","0","0",0
+335,tfc,kill_streak_11,10,0,"",Unstoppable (11 kills),"1","0","0","0",0
+334,tfc,kill_streak_10,9,0,"",Monster Kill (10 kills),"1","0","0","0",0
+333,tfc,kill_streak_9,8,0,"",Killing Spree (9 kills),"1","0","0","0",0
+332,tfc,kill_streak_8,7,0,"",Ultra Kill (8 kills),"1","0","0","0",0
+331,tfc,kill_streak_7,6,0,"",Ownage (7 kills),"1","0","0","0",0
+330,tfc,kill_streak_6,5,0,"",Mega Kill (6 kills),"1","0","0","0",0
+329,tfc,kill_streak_5,4,0,"",Rampage (5 kills),"1","0","0","0",0
+328,tfc,kill_streak_4,3,0,"",Domination (4 kills),"1","0","0","0",0
+327,tfc,kill_streak_3,2,0,"",Triple Kill (3 kills),"1","0","0","0",0
+326,tfc,kill_streak_2,1,0,"",Double Kill (2 kills),"1","0","0","0",0
+325,tfc,headshot,1,0,"",Headshot Kill,"1","0","0","0",0
+324,tfc,Built_Dispenser,2,0,"",Built Dispenser,"1","0","0","0",0
+323,tfc,Dispenser_Destroyed,5,0,"",Dispenser Destroyed,"1","0","0","0",0
+322,tfc,Discovered_Spy,2,0,"",Discovered a Spy,"1","0","0","0",0
+321,tfc,Dispenser_Dismantle,-2,0,"",Dismantled Dispenser,"0","1","0","0",0
+320,tfc,Sentry_Dismantle,3,0,"",Dismantled Sentry Gun,"0","1","0","0",0
+319,tfc,Sentry_Destroyed,3,0,"",Destroyed Sentry Gun,"0","1","0","0",0
+318,tfc,Sentry_Upgrade_Level_3,1,0,"",Upgraded Sentry to Lvl 3,"1","0","0","0",0
+317,tfc,Sentry_Upgrade_Level_2,1,0,"",Upgraded Sentry to Lvl 2,"1","0","0","0",0
+316,tfc,Sentry_Built_Level_1,2,0,"",Built Sentry,"1","0","0","0",0
+315,tfc,Teleporter_Exit_Finished,2,0,"",Teleporter Exit Build,"1","0","0","0",0
+314,tfc,Teleporter_Exit_Destroyed,1,0,"",Teleporter Exit Destroyed,"0","1","0","0",0
+313,tfc,Teleporter_Exit_Dismantle,-2,0,"",Teleporter Exit Dismantled,"1","0","0","0",0
+312,tfc,Teleporter_Entrance_Finished,2,0,"",Teleporter Entrance Build,"1","0","0","0",0
+311,tfc,Teleporter_Entrance_Destroyed,1,0,"",Teleporter Entrance Destroyed,"0","1","0","0",0
+310,tfc,Teleporter_Entrance_Dismantle,-2,0,"",Teleporter Entrance Dismantled,"1","0","0","0",0
+309,tfc,Concussion_Grenade,1,0,"",Concussion,"0","1","0","0",0
+306,tfc,Medic_Infection,2,0,"",Infected Enemy,"0","1","0","0",0
+307,tfc,Medic_Cured_Infection,2,0,"",Cured Infection,"1","0","0","0",0
+308,tfc,Hallucination_Grenade,1,0,"",Hallucination,"0","1","0","0",0
+397,ns,structure_built_weapon_shotgun,1,0,"",Created a Shotgun,"1","0","0","0",0
+396,ns,structure_built_weapon_heavymachinegun,1,0,"",Created a Heavy Machine Gun,"1","0","0","0",0
+395,ns,structure_built_weapon_grenadegun,1,0,"",Created a Grenade Gun,"1","0","0","0",0
+394,ns,structure_destroyed_scan,1,0,"",Destroyed Scanner,"1","0","0","0",0
+393,ns,structure_built_scan,1,0,"",Built Scanner,"1","0","0","0",0
+392,ns,structure_destroyed_team_advarmory,1,0,"",Destroyed Advanced Armory,"1","0","0","0",0
+391,ns,structure_built_team_advarmory,1,0,"",Built Advanced Armory,"1","0","0","0",0
+390,ns,structure_destroyed_team_observatory,1,0,"",Destroyed Observatory,"1","0","0","0",0
+389,ns,structure_built_team_observatory,1,0,"",Built Observatory,"1","0","0","0",0
+388,ns,structure_destroyed_team_command,2,0,"",Destroyed Command Unit,"1","0","0","0",0
+387,ns,structure_built_team_command,1,0,"",Built Command Unit,"1","0","0","0",0
+386,ns,structure_destroyed_team_prototypelab,2,0,"",Destroyed Prototype Lab,"1","0","0","0",0
+385,ns,structure_built_team_prototypelab,1,0,"",Built Prototype Lab,"1","0","0","0",0
+384,ns,structure_destroyed_sensorychamber,2,0,"",Destroyed Sensory Chamber,"1","0","0","0",0
+383,ns,structure_built_sensorychamber,1,0,"",Built Sensory Chamber,"1","0","0","0",0
+382,ns,structure_destroyed_team_armslab,2,0,"",Destroyed Arms Lab,"1","0","0","0",0
+381,ns,structure_built_team_armslab,1,0,"",Built Arms Lab,"1","0","0","0",0
+380,ns,structure_destroyed_team_hive,2,0,"",Destroyed Alien Hive,"1","0","0","0",0
+379,ns,structure_built_team_hive,1,0,"",Built Alien Hive,"1","0","0","0",0
+378,ns,structure_destroyed_movementchamber,2,0,"",Destroyed Movement Chamber,"1","0","0","0",0
+376,ns,structure_destroyed_offensechamber,2,0,"",Destroyed Offense Chamber,"1","0","0","0",0
+377,ns,structure_built_movementchamber,1,0,"",Built Movement Chamber,"1","0","0","0",0
+561,dystopia,Destroy The Core,2,0,"",Destroy The Core,"1","0","0","0",0
+560,dystopia,Destroy The Bulkhead,2,0,"",Destroy The Bulkhead,"1","0","0","0",0
+559,dystopia,Destroy Cooling Tank,2,0,"",Destroy Cooling Tank,"1","0","0","0",0
+558,dystopia,Destroy Cooling Access Door,2,0,"",Destroy Cooling Access Door,"1","0","0","0",0
+187,insmod,kill_streak_4,3,0,"",Domination (4 kills),"1","0","0","0",0
+186,insmod,kill_streak_3,2,0,"",Triple Kill (3 kills),"1","0","0","0",0
+185,insmod,kill_streak_2,1,0,"",Double Kill (2 kills),"1","0","0","0",0
+184,hl2mp,headshot,0,0,"",Headshot Kill,"1","0","0","0",0
+183,hl2mp,kill_streak_12,11,0,"",God Like (12+ kills),"1","0","0","0",0
+182,hl2mp,kill_streak_11,10,0,"",Unstoppable (11 kills),"1","0","0","0",0
+181,hl2mp,kill_streak_10,9,0,"",Monster Kill (10 kills),"1","0","0","0",0
+180,hl2mp,kill_streak_9,8,0,"",Killing Spree (9 kills),"1","0","0","0",0
+179,hl2mp,kill_streak_8,7,0,"",Ultra Kill (8 kills),"1","0","0","0",0
+178,hl2mp,kill_streak_7,6,0,"",Ownage (7 kills),"1","0","0","0",0
+175,hl2mp,kill_streak_4,3,0,"",Domination (4 kills),"1","0","0","0",0
+176,hl2mp,kill_streak_5,4,0,"",Rampage (5 kills),"1","0","0","0",0
+177,hl2mp,kill_streak_6,5,0,"",Mega Kill (6 kills),"1","0","0","0",0
+452,l4d2,used_adrenaline,0,0,"",Used Adrenaline,"1","0","0","0",0
+451,l4d2,defibrillated_teammate,5,0,"",Defibrillated Teammate,"1","0","0","0",0
+450,l4d2,versus_win,0,5,"",Versus Team Win,"0","0","1","0",0
+449,l4d2,scavenge_win,0,5,"",Scavenge Team Win,"0","0","1","0",0
+448,l4d2,tongue_grab,6,0,"",(Smoker) Tongue Grabbed Survivor,"0","1","0","0",0
+447,l4d2,killed_survivor,25,0,"",Incapacitated/Killed Survivor,"0","1","0","0",0
+446,l4d2,killed_charger,3,0,"",Killed a Charger,"1","0","0","0",0
+445,l4d2,killed_jockey,3,0,"",Killed a Jockey,"1","0","0","0",0
+444,l4d2,killed_spitter,3,0,"",Killed a Spitter,"1","0","0","0",0
+443,l4d2,killed_witch,3,0,"",Killed a Witch,"1","0","0","0",0
+442,l4d2,killed_tank,3,0,"",Killed a Tank,"1","0","0","0",0
+441,l4d2,killed_hunter,1,0,"",Killed a Hunter,"1","0","0","0",0
+440,l4d2,killed_boomer,1,0,"",Killed a Boomer,"1","0","0","0",0
+439,l4d2,killed_smoker,1,0,"",Killed a Smoker,"1","0","0","0",0
+438,l4d2,headshot,0,0,"",Headshot Kill,"1","0","0","0",0
+437,l4d,killed_all_survivors,0,0,"",Killed all survivors,"1","0","0","0",0
+436,l4d,no_death_on_tank,0,0,"",No survivors died/incapped from tank,"1","0","0","0",0
+435,l4d,protect_teammate,0,0,"",Protected Teammate,"1","0","0","0",0
+434,l4d,tounge_twister,0,0,"",Tounge Twister (kill a Smoker while he is dragging you),"1","0","0","0",0
+433,l4d,hunter_punter,0,0,"",Hunter Punter (melee a Hunter mid-jump),"1","0","0","0",0
+432,l4d,cr0wned,0,0,"",Cr0wned (killed witch with single headshot),"1","0","0","0",0
+431,l4d,friendly_fire,-10,0,"",Friendly Fire,"1","0","0","0",0
+430,l4d,killed_survivor,25,0,"",Incapacitated/Killed Survivor,"0","1","0","0",0
+429,l4d,killed_witch,3,0,"",Killed a Witch,"1","0","0","0",0
+428,l4d,killed_tank,3,0,"",Killed a Tank,"1","0","0","0",0
+427,l4d,killed_hunter,1,0,"",Killed a Hunter,"1","0","0","0",0
+426,l4d,killed_exploding,1,0,"",Killed a Boomer,"1","0","0","0",0
+425,l4d,killed_gas,1,0,"",Killed a Smoker,"1","0","0","0",0
+424,l4d,vomit,6,0,"",(Boomer) Vomited on Survivor,"0","1","0","0",0
+423,l4d,tongue_grab,6,0,"",(Smoker) Tongue Grabbed Survivor,"0","1","0","0",0
+422,l4d,pounce,6,0,"",(Hunter) Pounced on Survivor,"0","1","0","0",0
+421,l4d,startled_witch,-5,0,"",Startled the Witch,"1","0","0","0",0
+419,l4d,healed_teammate,5,0,"",Healed Teammate,"1","0","0","0",0
+420,l4d,revived_teammate,3,0,"",Revived Teammate,"1","0","0","0",0
+417,l4d,headshot,0,0,"",Headshot Kill,"1","0","0","0",0
+418,l4d,rescued_survivor,2,0,"",Rescued Teammate,"1","0","0","0",0
+416,ns,kill_streak_12,11,0,"",God Like (12+ kills),"1","0","0","0",0
+415,ns,kill_streak_11,10,0,"",Unstoppable (11 kills),"1","0","0","0",0
+414,ns,kill_streak_10,9,0,"",Monster Kill (10 kills),"1","0","0","0",0
+214,ff,headshot,1,0,"",Headshot kill,"1","0","0","0",0
+213,ff,kill_streak_12,11,0,"",God Like (12+ kills),"1","0","0","0",0
+212,ff,kill_streak_11,10,0,"",Unstoppable (11 kills),"1","0","0","0",0
+211,ff,kill_streak_10,9,0,"",Monster Kill (10 kills),"1","0","0","0",0
+210,ff,kill_streak_9,8,0,"",Killing Spree (9 kills),"1","0","0","0",0
+209,ff,kill_streak_8,7,0,"",Ultra Kill (8 kills),"1","0","0","0",0
+208,ff,kill_streak_7,6,0,"",Ownage (7 kills),"1","0","0","0",0
+207,ff,kill_streak_6,5,0,"",Mega Kill (6 kills),"1","0","0","0",0
+206,ff,kill_streak_5,4,0,"",Rampage (5 kills),"1","0","0","0",0
+205,ff,kill_streak_4,3,0,"",Domination (4 kills),"1","0","0","0",0
+204,ff,kill_streak_3,2,0,"",Triple Kill (3 kills),"1","0","0","0",0
+203,ff,kill_streak_2,1,0,"",Double Kill (2 kills),"1","0","0","0",0
+202,insmod,captured_e,0,5,"",Captured Objective E,"0","0","1","0",0
+201,insmod,captured_d,0,5,"",Captured Objective D,"0","0","1","0",0
+200,insmod,captured_c,0,5,"",Captured Objective C,"0","0","1","0",0
+199,insmod,captured_b,0,5,"",Captured Objective B,"0","0","1","0",0
+198,insmod,captured_a,0,5,"",Captured Objective A,"0","0","1","0",0
+197,insmod,Round_Win,0,10,"",Round Win,"0","0","1","0",0
+196,insmod,headshot,1,0,"",Headshot Kill,"1","0","0","0",0
+195,insmod,kill_streak_12,11,0,"",God Like (12+ kills),"1","0","0","0",0
+194,insmod,kill_streak_11,10,0,"",Unstoppable (11 kills),"1","0","0","0",0
+193,insmod,kill_streak_10,9,0,"",Monster Kill (10 kills),"1","0","0","0",0
+192,insmod,kill_streak_9,8,0,"",Killing Spree (9 kills),"1","0","0","0",0
+191,insmod,kill_streak_8,7,0,"",Ultra Kill (8 kills),"1","0","0","0",0
+190,insmod,kill_streak_7,6,0,"",Ownage (7 kills),"1","0","0","0",0
+189,insmod,kill_streak_6,5,0,"",Mega Kill (6 kills),"1","0","0","0",0
+188,insmod,kill_streak_5,4,0,"",Rampage (5 kills),"1","0","0","0",0
+542,dystopia,kill_streak_8,7,0,"",Ultra Kill (8 kills),"1","0","0","0",0
+541,dystopia,kill_streak_7,6,0,"",Ownage (7 kills),"1","0","0","0",0
+540,dystopia,kill_streak_6,5,0,"",Mega Kill (6 kills),"1","0","0","0",0
+539,dystopia,kill_streak_5,4,0,"",Rampage (5 kills),"1","0","0","0",0
+538,dystopia,kill_streak_4,3,0,"",Domination (4 kills),"1","0","0","0",0
+537,dystopia,kill_streak_3,2,0,"",Triple Kill (3 kills),"1","0","0","0",0
+536,dystopia,kill_streak_2,1,0,"",Double Kill (2 kills),"1","0","0","0",0
+139,hl2ctf,ctf_kill_carrier,5,0,"",Killed Enemy Flag Carrier,"1","0","0","0",0
+138,hl2ctf,ctf_flag_defend,2,0,"",Defended the Flag,"1","0","0","0",0
+137,hl2ctf,ctf_flag_capture,15,0,"",Captured Enemy Flag,"1","0","0","0",0
+136,css,revenge,3,0,"",Revenge,"0","1","0","0",0
+135,css,domination,5,0,"",Domination,"0","1","0","0",0
+134,css,kill_streak_12,11,0,"",God Like (12+ kills),"1","0","0","0",0
+133,css,kill_streak_11,10,0,"",Unstoppable (11 kills),"1","0","0","0",0
+132,css,kill_streak_10,9,0,"",Monster Kill (10 kills),"1","0","0","0",0
+131,css,kill_streak_9,8,0,"",Killing Spree (9 kills),"1","0","0","0",0
+130,css,kill_streak_8,7,0,"",Ultra Kill (8 kills),"1","0","0","0",0
+129,css,kill_streak_7,6,0,"",Ownage (7 kills),"1","0","0","0",0
+305,tfc,Capture Point 3,2,5,"",Captured Point 3,"1","0","0","0",0
+304,tfc,Capture Point 2,2,5,"",Captured Point 2,"1","0","0","0",0
+303,tfc,Capture Point 1,2,5,"",Captured Point 1,"1","0","0","0",0
+302,tfc,Team 1 dropoff,7,0,"",Captured Red Flag,"1","0","0","0",0
+301,tfc,Team 2 dropoff,7,0,"",Captured Blue Flag,"1","0","0","0",0
+300,tfc,rock2_bholedet,2,3,"",(rock2) Blow Red Yard,"1","0","0","0",0
+299,tfc,rock2_rholedet,2,3,"",(rock2) Blow Blue Yard,"1","0","0","0",0
+298,tfc,rock2_rcave1,2,3,"",(rock2) Blow Blue Cave,"1","0","0","0",0
+297,tfc,rock2_bcave1,2,3,"",(rock2) Blow Red Cave,"1","0","0","0",0
+296,cstrike,headshot,1,0,"",Headshot,"1","0","0","0",0
+295,cstrike,kill_streak_12,11,0,"",God Like (12+ kills),"1","0","0","0",0
+294,cstrike,kill_streak_11,10,0,"",Unstoppable (11 kills),"1","0","0","0",0
+293,cstrike,kill_streak_10,9,0,"",Monster Kill (10 kills),"1","0","0","0",0
+292,cstrike,kill_streak_9,8,0,"",Killing Spree (9 kills),"1","0","0","0",0
+291,cstrike,kill_streak_8,7,0,"",Ultra Kill (8 kills),"1","0","0","0",0
+290,cstrike,kill_streak_7,6,0,"",Ownage (7 kills),"1","0","0","0",0
+289,cstrike,kill_streak_6,5,0,"",Mega Kill (6 kills),"1","0","0","0",0
+288,cstrike,kill_streak_5,4,0,"",Rampage (5 kills),"1","0","0","0",0
+287,cstrike,kill_streak_4,3,0,"",Domination (4 kills),"1","0","0","0",0
+286,cstrike,kill_streak_3,2,0,"",Triple Kill (3 kills),"1","0","0","0",0
+285,cstrike,kill_streak_2,1,0,"",Double Kill (2 kills),"1","0","0","0",0
+284,cstrike,VIP_Escaped,0,10,CT,VIP escaped,"0","0","1","0",0
+283,cstrike,Bomb_Defused,0,6,CT,Counter-Terrorists defused the bomb,"0","0","1","0",0
+282,cstrike,VIP_Assassinated,0,6,TERRORIST,Terrorists assassinated the VIP,"0","0","1","0",0
+281,cstrike,Target_Bombed,0,10,TERRORIST,Terrorists bombed the target,"0","0","1","0",0
+273,cstrike,Killed_A_Hostage,-25,1,CT,Kill a Hostage,"1","0","0","0",0
+274,cstrike,Became_VIP,1,0,CT,Become the VIP,"1","0","0","0",0
+275,cstrike,Spawned_With_The_Bomb,2,0,TERRORIST,Spawn with the Bomb,"1","0","0","0",0
+276,cstrike,Got_The_Bomb,2,0,TERRORIST,Pick up the Bomb,"1","0","0","0",0
+277,cstrike,Dropped_The_Bomb,-2,0,TERRORIST,Drop the Bomb,"1","0","0","0",0
+278,cstrike,CTs_Win,0,2,CT,All Terrorists eliminated,"0","0","1","0",0
+279,cstrike,Terrorists_Win,0,2,TERRORIST,All Counter-Terrorists eliminated,"0","0","1","0",0
+280,cstrike,All_Hostages_Rescued,0,10,CT,Counter-Terrorists rescued all the hostages,"0","0","1","0",0
+557,dystopia,Destroy Broadcast Server,2,0,"",Destroy Broadcast Server,"1","0","0","0",0
+556,dystopia,Defend Security JIP,2,0,"",Defend Security JIP,"1","0","0","0",0
+555,dystopia,Defend Middle Spawn,2,0,"",Defend Middle Spawn,"1","0","0","0",0
+554,dystopia,Defend Interior Spawn,2,0,"",Defend Interior Spawn,"1","0","0","0",0
+553,dystopia,Cut Entrance Spawn Power,2,0,"",Cut Entrance Spawn Power,"1","0","0","0",0
+552,dystopia,Capture the Spawn,2,0,"",Capture the Spawn,"1","0","0","0",0
+551,dystopia,Capture the Inner Base,2,0,"",Capture the Inner Base,"1","0","0","0",0
+550,dystopia,Capture The Docks,2,0,"",Capture The Docks,"1","0","0","0",0
+549,dystopia,Capture Internal Spawn,2,0,"",Capture Internal Spawn,"1","0","0","0",0
+548,dystopia,Capture Interior Spawn,2,0,"",Capture Interior Spawn,"1","0","0","0",0
+547,dystopia,Capture Guard Post,2,0,"",Capture Guard Post,"1","0","0","0",0
+546,dystopia,kill_streak_12,11,0,"",God Like (12+ kills),"1","0","0","0",0
+545,dystopia,kill_streak_11,10,0,"",Unstoppable (11 kills),"1","0","0","0",0
+544,dystopia,kill_streak_10,9,0,"",Monster Kill (10 kills),"1","0","0","0",0
+543,dystopia,kill_streak_9,8,0,"",Killing Spree (9 kills),"1","0","0","0",0
+482,fof,loot_capture,8,0,"",Captured the loot,"1","0","0","0",0
+481,fof,loot_drop,-2,0,"",Dropped the loot,"1","0","0","0",0
+480,fof,kill_streak_12,11,0,"",God Like (12+ kills),"1","0","0","0",0
+479,fof,kill_streak_11,10,0,"",Unstoppable (11 kills),"1","0","0","0",0
+478,fof,kill_streak_10,9,0,"",Monster Kill (10 kills),"1","0","0","0",0
+477,fof,kill_streak_9,8,0,"",Killing Spree (9 kills),"1","0","0","0",0
+476,fof,kill_streak_8,7,0,"",Ultra Kill (8 kills),"1","0","0","0",0
+475,fof,kill_streak_7,6,0,"",Ownage (7 kills),"1","0","0","0",0
+474,fof,kill_streak_6,5,0,"",Mega Kill (6 kills),"1","0","0","0",0
+473,fof,kill_streak_5,4,0,"",Rampage (5 kills),"1","0","0","0",0
+472,fof,kill_streak_4,3,0,"",Domination (4 kills),"1","0","0","0",0
+471,fof,kill_streak_3,2,0,"",Triple Kill (3 kills),"1","0","0","0",0
+723,tf,gas_attack,0,0,"",Gassed Players,"1","1","0","0",120317
+731,tf,owner_killedobject_obj_dispenser,0,0,"",Blah,"1","0","0","0",0
+71,tf,air2airshot_sticky,0,0,"",Airshot Sticky (Airborne),"1","0","0","0",2274
+727,tf,"owner_killedobject_obj_sentrygun_mini""",0,0,"",Mini Sentry destroyed by switching class,"1","1","0","1",0
+728,tf,owner_killedobject_obj_teleporter_entrance,0,0,"",Destroyed Teleporter Entrance by switching class,"1","1","0","1",0
+120,css,Assassinated_The_VIP,0,6,TERRORIST,Terrorists assassinated the VIP,"0","0","1","0",0
+56,tf,teleport_self,0,0,"",Teleporter used (self),"1","0","0","0",31592
+65,tf,buff_deployed,2,0,"",Deployed Buff Flag,"1","0","0","0",39605
+69,tf,air2airshot_pipebomb,0,0,"",Airshot Pipebomb (Airborne),"1","0","0","0",1055
+565,dystopia,Enable Auxilary Power Feed,2,0,"",Enable Auxilary Power Feed,"1","0","0","0",0
+724,tf,owner_killedobject_obj_teleporter_exit,0,0,"",Destroyed Teleporter Exit by switching class,"1","0","0","0",0
+729,tf,owner_killedobject_obj_sentrygun_mini,0,0,"",Destroyed a Minisentry by switching class,"1","0","0","0",36537
+79,tf,deflected_baseball,2,0,"",Deflected Baseball,"0","1","0","0",1117
+80,tf,deflected_flare,2,0,"",Deflected Flare,"0","1","0","0",7606
+81,tf,deflected_jarate,2,0,"",Deflected Jarate,"0","1","0","0",0
+5,tf,flagevent_picked_up,2,0,"",Picked up the flag,"1","0","0","0",8024
+2,tf,flagevent_captured,2,1,"",Captured the flag,"1","0","0","0",681
+55,tf,teleport,1,0,"",Teleporter used,"1","0","0","0",254406
+83,tf,deflected_rocket,2,0,"",Deflected Rocket,"0","1","0","0",107387
+96,tf,teleport_used,0,0,"",Teleporter Used (Not Own),"1","0","0","0",250585
+82,tf,deflected_pipebomb,2,0,"",Deflected Pipebomb,"0","1","0","0",64448
+52,tf,sniper_extinguish,1,0,"",Extinguished Teammate (Sniper),"1","0","0","0",12949
+39,tf,kill_streak_9,1,0,"",Killing Spree (9 kills),"1","0","0","0",6619
+84,tf,deflected_rocket_dh,2,0,"",Deflected Directhit Rocket,"0","1","0","0",5573
+78,tf,deflected_arrow,2,0,"",Deflected Arrow,"0","1","0","0",16483
+101,tf,madmilk,0,0,"",Mad Milking a player,"0","1","0","0",93130
+102,tf,scout_extinguish,2,0,"",Extinguished Teammate (Scout),"1","0","0","0",15839
+92,tf,sticky_jump_kill,0,0,"",Sticky Jump Kill,"1","0","0","0",2363
+60,tf,shield_blocked,0,0,"",Blocked with Shield,"0","1","0","0",1454
+566,dystopia,Enable The 4-Point Override,2,0,"",Enable The 4-Point Override,"1","0","0","0",0
+567,dystopia,Escort Hostage,2,0,"",Escort Hostage,"1","0","0","0",0
+568,dystopia,Hack Middle Spawn,2,0,"",Hack Middle Spawn,"1","0","0","0",0
+569,dystopia,Hack Spawn Controls,2,0,"",Hack Spawn Controls,"1","0","0","0",0
+570,dystopia,Hack the Perimeter,2,0,"",Hack the Perimeter,"1","0","0","0",0
+571,dystopia,Inject The Virus,2,0,"",Inject The Virus,"1","0","0","0",0
+572,dystopia,Launch Missile,2,0,"",Launch Missile,"1","0","0","0",0
+573,dystopia,Locate profile,2,0,"",Locate profile,"1","0","0","0",0
+574,dystopia,Maintain Power Routing,2,0,"",Maintain Power Routing,"1","0","0","0",0
+575,dystopia,Open And Destroy Data Stores / Establish An Uplink,2,0,"",Open And Destroy Data Stores / Establish An Uplink,"1","0","0","0",0
+576,dystopia,Redirect Laser,2,0,"",Redirect Laser,"1","0","0","0",0
+577,dystopia,Reroute Power To Control Room,2,0,"",Reroute Power To Control Room,"1","0","0","0",0
+578,dystopia,Shut Down Security,2,0,"",Shut Down Security,"1","0","0","0",0
+579,dystopia,Shutdown The Production Line,2,0,"",hutdown The Production Line,"1","0","0","0",0
+580,dystopia,Smash Data Storage,2,0,"",Smash Data Storage,"1","0","0","0",0
+581,dystopia,Turn Power Offline,2,0,"",Turn Power Offline,"1","0","0","0",0
+582,nts,headshot,5,0,"",Headshot Kill,"1","0","0","0",0
+583,nts,kill_streak_10,9,0,"",Monster Kill (10 kills),"1","0","0","0",0
+584,nts,kill_streak_11,10,0,"",Unstoppable (11 kills),"1","0","0","0",0
+585,nts,kill_streak_12,15,0,"",God Like (12+ kills),"1","0","0","0",0
+586,nts,kill_streak_2,1,0,"",Double Kill (2 kills),"1","0","0","0",0
+587,nts,kill_streak_3,2,0,"",Triple Kill (3 kills),"1","0","0","0",0
+588,nts,kill_streak_4,3,0,"",Domination (4 kills),"1","0","0","0",0
+589,nts,kill_streak_5,4,0,"",Rampage (5 kills),"1","0","0","0",0
+590,nts,kill_streak_6,5,0,"",Mega Kill (6 kills),"1","0","0","0",0
+591,nts,kill_streak_7,6,0,"",Ownage (7 kills),"1","0","0","0",0
+592,nts,kill_streak_8,7,0,"",Ultra Kill (8 kills),"1","0","0","0",0
+593,nts,kill_streak_9,8,0,"",Killing Spree (9 kills),"1","0","0","0",0
+594,nts,Round_Win,0,20,"",Team Round Win,"0","0","1","0",0
+595,pvkii,kill_streak_2,1,0,"",Double Kill (2 kills),"1","0","0","0",0
+596,pvkii,kill_streak_3,2,0,"",Triple Kill (3 kills),"1","0","0","0",0
+597,pvkii,kill_streak_4,3,0,"",Domination (4 kills),"1","0","0","0",0
+598,pvkii,kill_streak_5,4,0,"",Rampage (5 kills),"1","0","0","0",0
+599,pvkii,kill_streak_6,5,0,"",Mega Kill (6 kills),"1","0","0","0",0
+600,pvkii,kill_streak_7,6,0,"",Ownage (7 kills),"1","0","0","0",0
+601,pvkii,kill_streak_8,7,0,"",Ultra Kill (8 kills),"1","0","0","0",0
+602,pvkii,kill_streak_9,8,0,"",Killing Spree (9 kills),"1","0","0","0",0
+603,pvkii,kill_streak_10,9,0,"",Monster Kill (10 kills),"1","0","0","0",0
+604,pvkii,kill_streak_11,10,0,"",Unstoppable (11 kills),"1","0","0","0",0
+605,pvkii,kill_streak_12,11,0,"",God Like (12+ kills),"1","0","0","0",0
+606,pvkii,kill assist,2,0,"",Kill Assist,"1","0","0","0",0
+607,pvkii,mvp1,5,0,"",Most Valuable Player #1,"1","0","0","0",0
+608,pvkii,mvp2,0,0,"",Most Valuable Player #2,"1","0","0","0",0
+609,pvkii,mvp3,0,0,"",Most Valuable Player #3,"1","0","0","0",0
+610,pvkii,chest_capture,3,0,"",Chest Capture,"1","0","0","0",0
+611,pvkii,chest_defend,2,0,"",Chest Defend,"1","0","0","0",0
+612,pvkii,obj_complete,3,0,"",Complted Objective,"1","0","0","0",0
+613,pvkii,grail_defend,2,0,"",Defended Grail,"1","0","0","0",0
+614,pvkii,killed_parrot,1,0,"",Killed Parrot,"1","0","0","0",0
+615,pvkii,domination,5,0,"",Domination,"0","1","0","0",0
+616,pvkii,revenge,3,0,"",Revenge,"0","1","0","0",0
+617,csp,headshot,1,0,"",Headshot,"1","0","0","0",0
+618,csp,kill_streak_2,1,0,"",Double Kill (2 kills),"1","0","0","0",0
+619,csp,kill_streak_3,2,0,"",Triple Kill (3 kills),"1","0","0","0",0
+620,csp,kill_streak_4,3,0,"",Domination (4 kills),"1","0","0","0",0
+621,csp,kill_streak_5,4,0,"",Rampage (5 kills),"1","0","0","0",0
+622,csp,kill_streak_6,5,0,"",Mega Kill (6 kills),"1","0","0","0",0
+623,csp,kill_streak_7,6,0,"",Ownage (7 kills),"1","0","0","0",0
+624,csp,kill_streak_8,7,0,"",Ultra Kill (8 kills),"1","0","0","0",0
+625,csp,kill_streak_9,8,0,"",Killing Spree (9 kills),"1","0","0","0",0
+626,csp,kill_streak_10,9,0,"",Monster Kill (10 kills),"1","0","0","0",0
+627,csp,kill_streak_11,10,0,"",Unstoppable (11 kills),"1","0","0","0",0
+628,csp,kill_streak_12,11,0,"",God Like (12+ kills),"1","0","0","0",0
+629,valve,kill_streak_2,1,0,"",Double Kill (2 kills),"1","0","0","0",0
+630,valve,kill_streak_3,2,0,"",Triple Kill (3 kills),"1","0","0","0",0
+631,valve,kill_streak_4,3,0,"",Domination (4 kills),"1","0","0","0",0
+632,valve,kill_streak_5,4,0,"",Rampage (5 kills),"1","0","0","0",0
+633,valve,kill_streak_6,5,0,"",Mega Kill (6 kills),"1","0","0","0",0
+634,valve,kill_streak_7,6,0,"",Ownage (7 kills),"1","0","0","0",0
+635,valve,kill_streak_8,7,0,"",Ultra Kill (8 kills),"1","0","0","0",0
+636,valve,kill_streak_9,8,0,"",Killing Spree (9 kills),"1","0","0","0",0
+637,valve,kill_streak_10,9,0,"",Monster Kill (10 kills),"1","0","0","0",0
+638,valve,kill_streak_11,10,0,"",Unstoppable (11 kills),"1","0","0","0",0
+639,valve,kill_streak_12,11,0,"",God Like (12+ kills),"1","0","0","0",0
+640,valve,headshot,1,0,"",Headshot Kill,"1","0","0","0",0
+641,nd,headshot,1,0,"",Headshot,"1","0","0","0",0
+642,nd,kill_streak_2,1,0,"",Double Kill (2 kills),"1","0","0","0",0
+643,nd,kill_streak_3,2,0,"",Triple Kill (3 kills),"1","0","0","0",0
+644,nd,kill_streak_4,3,0,"",Domination (4 kills),"1","0","0","0",0
+645,nd,kill_streak_5,4,0,"",Rampage (5 kills),"1","0","0","0",0
+646,nd,kill_streak_6,5,0,"",Mega Kill (6 kills),"1","0","0","0",0
+647,nd,kill_streak_7,6,0,"",Ownage (7 kills),"1","0","0","0",0
+648,nd,kill_streak_8,7,0,"",Ultra Kill (8 kills),"1","0","0","0",0
+649,nd,kill_streak_9,8,0,"",Killing Spree (9 kills),"1","0","0","0",0
+650,nd,kill_streak_10,9,0,"",Monster Kill (10 kills),"1","0","0","0",0
+651,nd,kill_streak_11,10,0,"",Unstoppable (11 kills),"1","0","0","0",0
+652,nd,kill_streak_12,11,0,"",God Like (12 kills),"1","0","0","0",0
+653,nd,round_win,0,20,Consortium,Consortium Win Round,"0","0","1","0",0
+654,nd,round_win,0,20,Empire,Empire Win Round,"0","0","1","0",0
+655,nd,round_lose,0,-20,Consortium,Consortium Lose Round,"0","0","1","0",0
+656,nd,round_lose,0,-20,Empire,Empire Lose Round,"0","0","1","0",0
+657,nd,structure_kill,0,20,Consortium,Empire Structure Destroyed,"1","0","1","0",0
+658,nd,structure_kill,0,20,Empire,Consortium Structure Destroyed,"1","0","1","0",0
+659,nd,killed_commander,5,0,"",Killed the enemy commander,"1","0","0","0",0
+660,nd,promoted_to_commander,10,0,"",Promoted to commander,"1","0","0","0",0
+661,nd,damaged_opposite_bunker,0,1,"","500dmg at enemy bunker","0","0","1","0",0
+662,nd,resource_captured,0,1,"",Captured resource,"0","0","1","0",0
+663,nd,armoury_destroyed,10,0,"",Destroyed Armory,"1","0","0","0",0
+664,nd,artillery_destroyed,10,0,"",Destroyed Artillery,"1","0","0","0",0
+665,nd,assembler_destroyed,10,0,"",Destroyed Assembler,"1","0","0","0",0
+666,nd,flamethrowerturret_destroyed,10,0,"",Destroyed Empire Flamethrower Turret,"1","0","0","0",0
+667,nd,wirelessrepeater_destroyed,10,0,"",Destroyed Consortium Wireless Repeater,"1","0","0","0",0
+668,nd,powerstation_destroyed,10,0,"",Destroyed Power Station,"1","0","0","0",0
+669,nd,radar_destroyed,10,0,"",Destroyed Radar Station,"1","0","0","0",0
+670,nd,powerrelay_destroyed,10,0,"",Destroyed Empire Relay Tower,"1","0","0","0",0
+671,nd,rocketturret_destroyed,10,0,"",Destroyed Rocket Turret,"1","0","0","0",0
+672,nd,sonicturret_destroyed,10,0,"",Destroyed Consortium Sonic Turret,"1","0","0","0",0
+673,nd,supply_destroyed,10,0,"",Destroyed Supply Station,"1","0","0","0",0
+674,nd,transportgate_destroyed,10,0,"",Destroyed Transport Gate,"1","0","0","0",0
+675,nd,machineguneturret_destroyed,10,0,"",Destroyed Machinegun Turret,"1","0","0","0",0
+676,csgo,Begin_Bomb_Defuse_Without_Kit,0,0,CT,Start Defusing the Bomb Without a Defuse Kit,"1","0","0","0",0
+677,csgo,Begin_Bomb_Defuse_With_Kit,0,0,CT,Start Defusing the Bomb With a Defuse Kit,"1","0","0","0",0
+678,csgo,Planted_The_Bomb,10,2,TERRORIST,Plant the Bomb,"1","0","0","0",0
+679,csgo,Defused_The_Bomb,10,0,CT,Defuse the Bomb,"1","0","0","0",0
+680,csgo,Touched_A_Hostage,0,0,CT,Touch a Hostage,"1","0","0","0",0
+681,csgo,Rescued_A_Hostage,5,1,CT,Rescue a Hostage,"1","0","0","0",0
+682,csgo,Killed_A_Hostage,-15,1,CT,Kill a Hostage,"1","0","0","0",0
+683,csgo,Spawned_With_The_Bomb,2,0,TERRORIST,Spawn with the Bomb,"1","0","0","0",0
+684,csgo,Got_The_Bomb,2,0,TERRORIST,Pick up the Bomb,"1","0","0","0",0
+685,csgo,Dropped_The_Bomb,-2,0,TERRORIST,Drop the Bomb,"1","0","0","0",0
+686,csgo,SFUI_Notice_CTs_Win,0,2,CT,All Terrorists eliminated,"0","0","1","0",0
+687,csgo,SFUI_Notice_Terrorists_Win,0,2,TERRORIST,All Counter-Terrorists eliminated,"0","0","1","0",0
+688,csgo,SFUI_Notice_All_Hostages_Rescued,0,10,CT,Counter-Terrorists rescued all the hostages,"0","0","1","0",0
+689,csgo,SFUI_Notice_Target_Bombed,0,5,TERRORIST,Terrorists bombed the target,"0","0","1","0",0
+690,csgo,SFUI_Notice_Bomb_Defused,0,5,CT,Counter-Terrorists defused the bomb,"0","0","1","0",0
+691,csgo,Escaped_As_VIP,0,10,CT,VIP escaped,"0","0","1","0",0
+692,csgo,Assassinated_The_VIP,0,6,TERRORIST,Terrorists assassinated the VIP,"0","0","1","0",0
+693,csgo,Became_VIP,1,0,CT,Become the VIP,"1","0","0","0",0
+694,csgo,headshot,1,0,"",Headshot,"1","0","0","0",0
+695,csgo,round_mvp,0,0,"",Round MVP,"1","0","0","0",0
+696,csgo,kill_streak_2,1,0,"",Double Kill (2 kills),"1","0","0","0",0
+697,csgo,kill_streak_3,2,0,"",Triple Kill (3 kills),"1","0","0","0",0
+698,csgo,kill_streak_4,3,0,"",Domination (4 kills),"1","0","0","0",0
+699,csgo,kill_streak_5,4,0,"",Rampage (5 kills),"1","0","0","0",0
+700,csgo,kill_streak_6,5,0,"",Mega Kill (6 kills),"1","0","0","0",0
+701,csgo,kill_streak_7,6,0,"",Ownage (7 kills),"1","0","0","0",0
+702,csgo,kill_streak_8,7,0,"",Ultra Kill (8 kills),"1","0","0","0",0
+703,csgo,kill_streak_9,8,0,"",Killing Spree (9 kills),"1","0","0","0",0
+704,csgo,kill_streak_10,9,0,"",Monster Kill (10 kills),"1","0","0","0",0
+705,csgo,kill_streak_11,10,0,"",Unstoppable (11 kills),"1","0","0","0",0
+706,csgo,kill_streak_12,11,0,"",God Like (12+ kills),"1","0","0","0",0
+707,csgo,domination,5,0,"",Domination,"0","1","0","0",0
+708,csgo,revenge,3,0,"",Revenge,"0","1","0","0",0
+709,dinodday,headshot,3,0,"",Boom! Headshot!,"1","0","0","0",0
+710,dinodday,kill_goat,-10,0,"",Defenseless Goat murdered,"1","0","0","0",0
+711,dinodday,kill_streak_2,1,0,"",Double Kill (2 kills),"1","0","0","0",0
+712,dinodday,kill_streak_3,2,0,"",Triple Kill (3 kills),"1","0","0","0",0
+713,dinodday,kill_streak_4,3,0,"",Domination (4 kills),"1","0","0","0",0
+714,dinodday,kill_streak_5,4,0,"",Rampage (5 kills),"1","0","0","0",0
+715,dinodday,kill_streak_6,5,0,"",Mega Kill (6 kills),"1","0","0","0",0
+716,dinodday,kill_streak_7,6,0,"",Ownage (7 kills),"1","0","0","0",0
+717,dinodday,kill_streak_8,7,0,"",Ultra Kill (8 kills),"1","0","0","0",0
+718,dinodday,kill_streak_9,8,0,"",Killing Spree (9 kills),"1","0","0","0",0
+719,dinodday,kill_streak_10,9,0,"",Monster Kill (10 kills),"1","0","0","0",0
+720,dinodday,kill_streak_11,10,0,"",Unstoppable (11 kills),"1","0","0","0",0
+721,dinodday,kill_streak_12,11,0,"",God Like (12+ kills),"1","0","0","0",0
+739,tf,healing_points,1,0,"",Points from Healing,"1","1","0","1",431204
+738,tf,vaccinator,5,0,"",Points from Vaccinator used,"1","0","0","0",13970
+737,tf,quickfix,5,0,"",Points from Quick-Fix used,"1","0","0","0",23471
+736,tf,kritz,5,0,"",Points from Kritzkireg used,"1","0","0","0",35891
+735,tf,uber,5,0,"",Points from Ubercharge used,"1","0","0","0",100591
+742,tf,banana,0,0,"",Ate a Second Banana,"1","0","0","0",21483
+743,tf,banana_healself,0,0,"",Ate a Second Banana and got health from it,"1","0","0","0",17829
+744,tf,dalokohs_healthboost,0,0,"",Ate a Dalokosh bar and boosted health,"1","0","0","0",28075
+745,tf,injector_used,0,0,"",Hypodermic Injections used,"1","1","0","0",2694
+746,tf,sapper_thrown,0,0,"",Sappers thrown,"1","0","0","0",1232
+747,tf,got_injected,0,0,"",Injections gotten,"1","0","0","0",1933
+748,tf,vita_saw_medic,0,0,"",Times used Vita-saw on a patient,"1","1","0","0",13638
+749,tf,vita_saw_patient,0,0,"",Times gotten Vita-saw healed,"1","1","0","0",13571
+750,tf,vita_saw_extinguish,0,0,"",Extinguished Teammate (Vita-saw),"1","1","0","0",813

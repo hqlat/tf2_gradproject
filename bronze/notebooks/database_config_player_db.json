@@ -1,0 +1,7 @@
+{
+    "host": "web.punksky.xyz",
+    "user": "higps",
+    "password": "UxIIrReQ4wvtmNWp",
+    "port": 3306,
+    "db_name": "higps"
+}

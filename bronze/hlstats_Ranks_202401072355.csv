@@ -1,0 +1,41 @@
+"rankId","image","minKills","maxKills","rankName","game"
+25,recruit,0,49,Recruit,tf
+53,private,50,99,Private,tf
+81,private-first-class,100,199,Private First Class,tf
+109,lance-corporal,200,299,Lance Corporal,tf
+137,corporal,300,399,Corporal,tf
+165,sergeant,400,499,Sergeant,tf
+193,staff-sergeant,500,599,Staff Sergeant,tf
+221,gunnery-sergeant,600,699,Gunnery Sergeant,tf
+249,master-sergeant,700,799,Master Sergeant,tf
+277,first-sergeant,800,899,First Sergeant,tf
+305,master-chief,900,999,Master Chief,tf
+333,sergeant-major,1000,1199,Sergeant Major,tf
+361,ensign,1200,1399,Ensign,tf
+389,third-lieutenant,1400,1599,Third Lieutenant,tf
+417,second-lieutenant,1600,1799,Second Lieutenant,tf
+445,first-lieutenant,1800,1999,First Lieutenant,tf
+473,captain,2000,2249,Captain,tf
+501,group-captain,2250,2499,Group Captain,tf
+529,senior-captain,2500,2749,Senior Captain,tf
+557,lieutenant-major,2750,2999,Lieutenant Major,tf
+585,major,3000,3499,Major,tf
+613,group-major,3500,3999,Group Major,tf
+641,lieutenant-commander,4000,4499,Lieutenant Commander,tf
+669,commander,4500,4999,Commander,tf
+697,group-commander,5000,5749,Group Commander,tf
+725,lieutenant-colonel,5750,6499,Lieutenant Colonel,tf
+753,colonel,6500,7249,Colonel,tf
+781,brigadier,7250,7999,Brigadier,tf
+809,brigadier-general,8000,8999,Brigadier General,tf
+837,major-general,9000,9999,Major General,tf
+865,lieutenant-general,10000,12499,Lieutenant General,tf
+893,general,12500,14999,General,tf
+921,commander-general,15000,17499,Commander General,tf
+949,field-vice-marshal,17500,19999,Field Vice Marshal,tf
+977,field-marshal,20000,22499,Field Marshal,tf
+1005,vice-commander-of-the-army,22500,24999,Vice Commander of the Army,tf
+1033,commander-of-the-army,25000,27499,Commander of the Army,tf
+1061,high-commander,27500,29999,High Commander,tf
+1089,supreme-commander,30000,34999,Supreme Commander,tf
+1117,terminator,35000,9999999,Terminator,tf

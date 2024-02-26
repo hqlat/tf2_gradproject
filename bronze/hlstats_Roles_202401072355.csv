@@ -1,0 +1,10 @@
+"roleId","game","code","name","hidden","picked","kills","deaths"
+1,tf,engineer,Engineer,"0",143031,310994,278037
+2,tf,spy,Spy,"0",146678,289467,320551
+3,tf,soldier,Soldier,"0",207275,544103,466926
+4,tf,scout,Scout,"0",212729,391374,429097
+5,tf,demoman,Demo Man,"0",186852,450623,424895
+6,tf,sniper,Sniper,"0",145825,327407,278423
+7,tf,medic,Medic,"0",103088,68093,250638
+8,tf,pyro,Pyro,"0",179940,463483,478889
+9,tf,heavyweapons,Heavy,"0",148611,401591,304842
